@@ -1,0 +1,67 @@
+/*
+NAME: PRISMSIIStyle.css
+AUTHOR: John Archibald Page
+DATE CREATED: 18/11/2022 
+DATE LAST UPDATED: 21/11/2022
+
+PURPOSE:
+To set the style of the PRISMS GUI.
+
+
+NOTES: For more information on making a style sheet, got to: 
+https://doc.qt.io/qt-6/stylesheet-syntax.html
+https://doc.qt.io/qtforpython/overviews/stylesheet-examples.html
+*/
+/*Terminal, position, camera settings*/
+QLineEdit { background-color: rgb(0, 0, 0);
+    border-color: rgb(143, 143, 143);
+    font-family:'Courier New', Courier, monospace;
+    color:rgb(255, 255, 255);
+    font: bold 14px;
+}
+/*Terminal*/
+QTextEdit { background-color: rgb(0, 0, 0);
+    border-color: rgb(143, 143, 143);
+    font-family:'Courier New', Courier, monospace;
+    color:rgb(255, 255, 255);
+    font: bold 14px;
+}
+
+/*Everything*/
+QGroupBox { background-color: rgb(0, 0, 0);
+    border-color: rgb(143, 143, 143);
+    font-family:'Courier New', Courier, monospace;
+    color:rgb(255, 255, 255);
+    font: bold 14px;
+}
+
+/*Everything*/
+QLabel {
+    font-family:'Courier New', Courier, monospace;
+    color:rgb(255, 255, 255);
+    font: bold 14px;
+}
+/*Main widget*/
+QWidget {background-color: rgb(0, 0, 0);
+    border-color: rgb(143, 143, 143);
+    font-family:'Courier New', Courier, monospace;
+    color:rgb(255, 255, 255);
+    font: bold 16px;
+}
+/*Everything*/
+QPushButton {
+    background-color: rgb(105, 105, 105);
+    border-style: outset;
+    border-width: 2px;
+    border-radius: 10px;
+    border-color: rgb(143, 143, 143);
+    font: bold 24px;
+    color: rgb(255, 255, 255);
+    padding: 6px;
+}
+
+QMainWindow {background-color: rgb(0, 0, 0);
+}
+
+QComboBox {background-color: rgb(0, 0, 0);
+}
