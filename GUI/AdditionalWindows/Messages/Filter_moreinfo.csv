@@ -1,0 +1,5 @@
+title, Filter: Wavelengths
+messagetitle, Wavelength of filters:
+message,1) 400 &lambda; <br> 2) 450 &lambda; <br> 3) 500 &lambda; <br> 4) 550 &lambda; <br> 5) 600 &lambda; <br> 6) 650 &lambda; <br> 7) 700 &lambda;<br> 8) 750 &lambda;<br> 9) 800 &lambda; <br> 10) 850 &lambda; <br>
+windowicon,FALSE
+width,200

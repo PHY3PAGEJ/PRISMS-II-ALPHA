@@ -1,0 +1,5 @@
+title, Terminal: Command List
+messagetitle, List of Commands
+message,help - Lists commands <br> exit - closes window
+windowicon,False
+width,200
