@@ -1,0 +1,1827 @@
+12/07/2022 10:09:17: _______________________________________________
+12/07/2022 10:09:17: |                                             |
+12/07/2022 10:09:17: | ___  ___  ____ ___  _   _  ___    ____ ____ |
+12/07/2022 10:09:17: ||[_]||[_]|  || ||^||||\V/||||^||    ||   ||  |
+12/07/2022 10:09:17: |||'' ||^\\  ||  \\  || V || \\      ||   ||  |
+12/07/2022 10:09:17: |||   ||  \\_||_||_||||   ||||_||   _||_ _||_ |
+12/07/2022 10:09:17: |                                             |
+12/07/2022 10:09:17: |Author: John Archibald Page                  |
+12/07/2022 10:09:17: |Created on: 30/11/2022                       |
+12/07/2022 10:09:17: |Last updated on: 30/11/2022                  |
+12/07/2022 10:09:17: |_____________________________________________|
+12/07/2022 10:09:17: Initiating program...
+12/07/2022 10:09:18: Launch Window initiating...
+12/07/2022 10:09:18: Launch Window initiated Successfully!
+12/07/2022 10:09:31: Equipment Serial Port Configuration set:
+12/07/2022 10:09:31: component,connected,COMS
+12/07/2022 10:09:31: MainCamera,False,0
+12/07/2022 10:09:31: AzimuthAltitudeStand,False,0
+12/07/2022 10:09:31: Filter,True,6
+12/07/2022 10:09:31: Focuser,False,0
+12/07/2022 10:09:31: RGBCamera,False,0
+12/07/2022 10:09:31: Initiating Main window...
+12/07/2022 10:09:32: Main window initiated successfully!
+12/07/2022 10:09:32: COM6 has been opened!
+12/07/2022 10:09:39: The Filter has been set to filter 1 and speed 7
+12/07/2022 10:09:40: The Filter has been set to filter 2 and speed 7
+12/07/2022 10:09:41: The Filter has been set to filter 3 and speed 7
+12/07/2022 10:09:42: The Filter has been set to filter 4 and speed 7
+12/07/2022 10:09:43: The Filter has been set to filter 5 and speed 7
+12/07/2022 10:09:44: The Filter has been set to filter 6 and speed 7
+12/07/2022 10:09:45: The Filter has been set to filter 7 and speed 7
+12/07/2022 10:09:47: The Filter has been set to filter 8 and speed 7
+12/07/2022 10:09:48: The Filter has been set to filter 9 and speed 7
+12/07/2022 10:10:10: _______________________________________________
+12/07/2022 10:10:10: |                                             |
+12/07/2022 10:10:10: | ___  ___  ____ ___  _   _  ___    ____ ____ |
+12/07/2022 10:10:10: ||[_]||[_]|  || ||^||||\V/||||^||    ||   ||  |
+12/07/2022 10:10:10: |||'' ||^\\  ||  \\  || V || \\      ||   ||  |
+12/07/2022 10:10:10: |||   ||  \\_||_||_||||   ||||_||   _||_ _||_ |
+12/07/2022 10:10:10: |                                             |
+12/07/2022 10:10:10: |Author: John Archibald Page                  |
+12/07/2022 10:10:10: |Created on: 30/11/2022                       |
+12/07/2022 10:10:10: |Last updated on: 30/11/2022                  |
+12/07/2022 10:10:10: |_____________________________________________|
+12/07/2022 10:10:10: Initiating program...
+12/07/2022 10:10:10: Launch Window initiating...
+12/07/2022 10:10:10: Launch Window initiated Successfully!
+12/07/2022 10:10:15: Equipment Serial Port Configuration set:
+12/07/2022 10:10:15: component,connected,COMS
+12/07/2022 10:10:15: MainCamera,False,0
+12/07/2022 10:10:15: AzimuthAltitudeStand,False,0
+12/07/2022 10:10:15: Filter,True,0
+12/07/2022 10:10:15: Focuser,False,0
+12/07/2022 10:10:15: RGBCamera,False,0
+12/07/2022 10:10:15: Initiating Main window...
+12/07/2022 10:10:16: Main window initiated successfully!
+12/07/2022 10:10:49: _______________________________________________
+12/07/2022 10:10:49: |                                             |
+12/07/2022 10:10:49: | ___  ___  ____ ___  _   _  ___    ____ ____ |
+12/07/2022 10:10:49: ||[_]||[_]|  || ||^||||\V/||||^||    ||   ||  |
+12/07/2022 10:10:49: |||'' ||^\\  ||  \\  || V || \\      ||   ||  |
+12/07/2022 10:10:49: |||   ||  \\_||_||_||||   ||||_||   _||_ _||_ |
+12/07/2022 10:10:49: |                                             |
+12/07/2022 10:10:49: |Author: John Archibald Page                  |
+12/07/2022 10:10:49: |Created on: 30/11/2022                       |
+12/07/2022 10:10:49: |Last updated on: 30/11/2022                  |
+12/07/2022 10:10:49: |_____________________________________________|
+12/07/2022 10:10:49: Initiating program...
+12/07/2022 10:10:49: Launch Window initiating...
+12/07/2022 10:10:49: Launch Window initiated Successfully!
+12/07/2022 10:10:57: Equipment Serial Port Configuration set:
+12/07/2022 10:10:57: component,connected,COMS
+12/07/2022 10:10:57: MainCamera,False,0
+12/07/2022 10:10:57: AzimuthAltitudeStand,False,0
+12/07/2022 10:10:57: Filter,True,6
+12/07/2022 10:10:57: Focuser,False,0
+12/07/2022 10:10:57: RGBCamera,False,0
+12/07/2022 10:10:57: Initiating Main window...
+12/07/2022 10:10:58: Main window initiated successfully!
+12/07/2022 10:10:58: COM6 has been opened!
+12/07/2022 10:11:07: The Filter has been set to filter 1 and speed 7
+12/07/2022 10:11:10: The Filter has been set to filter 0 and speed 7
+12/07/2022 10:13:25: _______________________________________________
+12/07/2022 10:13:25: |                                             |
+12/07/2022 10:13:25: | ___  ___  ____ ___  _   _  ___    ____ ____ |
+12/07/2022 10:13:25: ||[_]||[_]|  || ||^||||\V/||||^||    ||   ||  |
+12/07/2022 10:13:25: |||'' ||^\\  ||  \\  || V || \\      ||   ||  |
+12/07/2022 10:13:25: |||   ||  \\_||_||_||||   ||||_||   _||_ _||_ |
+12/07/2022 10:13:25: |                                             |
+12/07/2022 10:13:25: |Author: John Archibald Page                  |
+12/07/2022 10:13:25: |Created on: 30/11/2022                       |
+12/07/2022 10:13:25: |Last updated on: 30/11/2022                  |
+12/07/2022 10:13:25: |_____________________________________________|
+12/07/2022 10:13:25: Initiating program...
+12/07/2022 10:13:25: Launch Window initiating...
+12/07/2022 10:13:25: Launch Window initiated Successfully!
+12/07/2022 10:13:35: Equipment Serial Port Configuration set:
+12/07/2022 10:13:35: component,connected,COMS
+12/07/2022 10:13:35: MainCamera,False,0
+12/07/2022 10:13:35: AzimuthAltitudeStand,False,0
+12/07/2022 10:13:35: Filter,True,6
+12/07/2022 10:13:35: Focuser,False,0
+12/07/2022 10:13:35: RGBCamera,False,0
+12/07/2022 10:13:35: Initiating Main window...
+12/07/2022 10:13:35: Main window initiated successfully!
+12/07/2022 10:13:35: COM6 has been opened!
+12/07/2022 10:13:39: The Filter has been set to filter 1 and speed 7
+12/07/2022 10:13:42: The Filter has been set to filter 2 and speed 7
+12/07/2022 10:13:42: The Filter has been set to filter 3 and speed 7
+12/07/2022 10:13:42: The Filter has been set to filter 4 and speed 7
+12/07/2022 10:13:43: The Filter has been set to filter 5 and speed 7
+12/07/2022 10:13:43: The Filter has been set to filter 6 and speed 7
+12/07/2022 10:13:43: The Filter has been set to filter 7 and speed 7
+12/07/2022 10:13:44: The Filter has been set to filter 8 and speed 7
+12/07/2022 10:13:45: The Filter has been set to filter 9 and speed 7
+12/07/2022 10:13:47: The Filter has been set to filter 0 and speed 7
+12/07/2022 10:13:50: The Filter has been set to filter 1 and speed 7
+12/07/2022 10:13:50: The Filter has been set to filter 2 and speed 7
+12/07/2022 10:13:50: The Filter has been set to filter 3 and speed 7
+12/07/2022 10:13:51: The Filter has been set to filter 4 and speed 7
+12/07/2022 10:13:51: The Filter has been set to filter 5 and speed 7
+12/07/2022 10:13:51: The Filter has been set to filter 6 and speed 7
+12/07/2022 10:13:52: The Filter has been set to filter 7 and speed 7
+12/07/2022 10:13:52: The Filter has been set to filter 8 and speed 7
+12/07/2022 10:13:52: The Filter has been set to filter 9 and speed 7
+12/07/2022 10:13:53: The Filter has been set to filter 0 and speed 7
+12/07/2022 10:13:53: The Filter has been set to filter 1 and speed 7
+12/07/2022 10:13:55: The Filter has been set to filter 0 and speed 7
+12/07/2022 10:13:55: The Filter has been set to filter 9 and speed 7
+12/07/2022 10:13:55: The Filter has been set to filter 8 and speed 7
+12/07/2022 10:13:55: The Filter has been set to filter 7 and speed 7
+12/07/2022 10:13:56: The Filter has been set to filter 6 and speed 7
+12/07/2022 10:13:56: The Filter has been set to filter 5 and speed 7
+12/07/2022 10:13:59: The Filter has been set to filter 4 and speed 7
+12/07/2022 10:18:10: _______________________________________________
+12/07/2022 10:18:10: |                                             |
+12/07/2022 10:18:10: | ___  ___  ____ ___  _   _  ___    ____ ____ |
+12/07/2022 10:18:10: ||[_]||[_]|  || ||^||||\V/||||^||    ||   ||  |
+12/07/2022 10:18:10: |||'' ||^\\  ||  \\  || V || \\      ||   ||  |
+12/07/2022 10:18:10: |||   ||  \\_||_||_||||   ||||_||   _||_ _||_ |
+12/07/2022 10:18:10: |                                             |
+12/07/2022 10:18:10: |Author: John Archibald Page                  |
+12/07/2022 10:18:10: |Created on: 30/11/2022                       |
+12/07/2022 10:18:10: |Last updated on: 30/11/2022                  |
+12/07/2022 10:18:10: |_____________________________________________|
+12/07/2022 10:18:10: Initiating program...
+12/07/2022 10:18:10: Launch Window initiating...
+12/07/2022 10:18:11: Launch Window initiated Successfully!
+12/07/2022 10:18:21: Equipment Serial Port Configuration set:
+12/07/2022 10:18:21: component,connected,COMS
+12/07/2022 10:18:21: MainCamera,False,0
+12/07/2022 10:18:21: AzimuthAltitudeStand,True,5
+12/07/2022 10:18:21: Filter,False,0
+12/07/2022 10:18:21: Focuser,False,0
+12/07/2022 10:18:21: RGBCamera,False,0
+12/07/2022 10:18:21: Initiating Main window...
+12/07/2022 10:18:22: Main window initiated successfully!
+12/07/2022 10:18:25: Zaber Stand position initalised: Altitude = -0.53; Azimuth = 4.03984375
+12/07/2022 10:18:29: Zaber Stand position initalised: Altitude = -0.53; Azimuth = 4.03984375
+12/07/2022 10:18:29: Zaber Stand position initalised: Altitude = -0.53; Azimuth = 4.03984375
+12/07/2022 10:18:29: Zaber Stand has moved 0.53 degrees to new position 0.0
+12/07/2022 10:18:29: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 4.03984375
+12/07/2022 10:18:30: Zaber Stand has moved -4.03984375 degrees to new position 0.0
+12/07/2022 10:18:30: Zaber stand has been returned to 0,0
+12/07/2022 10:18:30: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 0.0
+12/07/2022 10:18:36: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 0.0
+12/07/2022 10:18:37: Zaber Stand has moved 5 degrees to new position 5.0
+12/07/2022 10:18:37: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 5.0
+12/07/2022 10:18:38: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 5.0
+12/07/2022 10:18:39: Zaber Stand has moved -5 degrees to new position 0.0
+12/07/2022 10:18:39: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 0.0
+12/07/2022 10:22:26: _______________________________________________
+12/07/2022 10:22:26: |                                             |
+12/07/2022 10:22:26: | ___  ___  ____ ___  _   _  ___    ____ ____ |
+12/07/2022 10:22:26: ||[_]||[_]|  || ||^||||\V/||||^||    ||   ||  |
+12/07/2022 10:22:26: |||'' ||^\\  ||  \\  || V || \\      ||   ||  |
+12/07/2022 10:22:26: |||   ||  \\_||_||_||||   ||||_||   _||_ _||_ |
+12/07/2022 10:22:26: |                                             |
+12/07/2022 10:22:26: |Author: John Archibald Page                  |
+12/07/2022 10:22:26: |Created on: 30/11/2022                       |
+12/07/2022 10:22:26: |Last updated on: 30/11/2022                  |
+12/07/2022 10:22:26: |_____________________________________________|
+12/07/2022 10:22:26: Initiating program...
+12/07/2022 10:22:26: Launch Window initiating...
+12/07/2022 10:22:26: Launch Window initiated Successfully!
+12/07/2022 10:22:35: Equipment Serial Port Configuration set:
+12/07/2022 10:22:35: component,connected,COMS
+12/07/2022 10:22:35: MainCamera,False,0
+12/07/2022 10:22:35: AzimuthAltitudeStand,True,5
+12/07/2022 10:22:35: Filter,False,0
+12/07/2022 10:22:35: Focuser,False,0
+12/07/2022 10:22:35: RGBCamera,False,0
+12/07/2022 10:22:35: Initiating Main window...
+12/07/2022 10:22:36: Main window initiated successfully!
+12/07/2022 10:22:38: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 0.0
+12/07/2022 10:22:40: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 0.0
+12/07/2022 10:22:41: Zaber Stand has moved -5 degrees to new position -5.0
+12/07/2022 10:22:41: Zaber Stand position initalised: Altitude = 0.0; Azimuth = -5.0
+12/07/2022 10:22:41: Zaber Stand position initalised: Altitude = 0.0; Azimuth = -5.0
+12/07/2022 10:22:42: Zaber Stand has moved -5 degrees to new position -10.0
+12/07/2022 10:22:42: Zaber Stand position initalised: Altitude = 0.0; Azimuth = -10.0
+12/07/2022 10:22:43: Zaber Stand position initalised: Altitude = 0.0; Azimuth = -10.0
+12/07/2022 10:22:44: Zaber Stand has moved 5 degrees to new position -5.0
+12/07/2022 10:22:44: Zaber Stand position initalised: Altitude = 0.0; Azimuth = -5.0
+12/07/2022 10:22:44: Zaber Stand position initalised: Altitude = 0.0; Azimuth = -5.0
+12/07/2022 10:22:45: Zaber Stand has moved 5 degrees to new position 0.0
+12/07/2022 10:22:45: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 0.0
+12/07/2022 10:22:45: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 0.0
+12/07/2022 10:22:46: Zaber Stand has moved 5 degrees to new position 5.0
+12/07/2022 10:22:46: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 5.0
+12/07/2022 10:22:46: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 5.0
+12/07/2022 10:22:47: Zaber Stand has moved 5 degrees to new position 10.0
+12/07/2022 10:22:47: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 10.0
+12/07/2022 10:22:47: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 10.0
+12/07/2022 10:22:48: Zaber Stand has moved 5 degrees to new position 15.0
+12/07/2022 10:22:48: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 15.0
+12/07/2022 10:22:48: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 15.0
+12/07/2022 10:22:49: Zaber Stand has moved 5 degrees to new position 20.0
+12/07/2022 10:22:49: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 20.0
+12/07/2022 10:22:49: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 20.0
+12/07/2022 10:22:50: Zaber Stand has moved 5 degrees to new position 25.0
+12/07/2022 10:22:50: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 25.0
+12/07/2022 10:22:50: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 25.0
+12/07/2022 10:22:51: Zaber Stand has moved 5 degrees to new position 30.0
+12/07/2022 10:22:51: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 30.0
+12/07/2022 10:22:51: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 30.0
+12/07/2022 10:22:52: Zaber Stand has moved -5 degrees to new position 25.0
+12/07/2022 10:22:52: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 25.0
+12/07/2022 10:22:52: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 25.0
+12/07/2022 10:22:53: Zaber Stand has moved -5 degrees to new position 20.0
+12/07/2022 10:22:53: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 20.0
+12/07/2022 10:22:53: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 20.0
+12/07/2022 10:22:54: Zaber Stand has moved -5 degrees to new position 15.0
+12/07/2022 10:22:54: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 15.0
+12/07/2022 10:22:54: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 15.0
+12/07/2022 10:22:55: Zaber Stand has moved -5 degrees to new position 10.0
+12/07/2022 10:22:55: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 10.0
+12/07/2022 10:22:55: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 10.0
+12/07/2022 10:22:56: Zaber Stand has moved -5 degrees to new position 5.0
+12/07/2022 10:22:56: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 5.0
+12/07/2022 10:22:58: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 5.0
+12/07/2022 10:22:58: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 5.0
+12/07/2022 10:22:58: Zaber Stand has moved -0.0 degrees to new position 0.0
+12/07/2022 10:22:58: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 5.0
+12/07/2022 10:22:59: Zaber Stand has moved -5.0 degrees to new position 0.0
+12/07/2022 10:22:59: Zaber stand has been returned to 0,0
+12/07/2022 10:22:59: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 0.0
+12/07/2022 10:23:03: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 0.0
+12/07/2022 10:23:07: Zaber Stand has moved 30.0 degrees to new position 30.0
+12/07/2022 10:23:07: Zaber Stand position initalised: Altitude = 30.0; Azimuth = 0.0
+12/07/2022 10:23:08: Zaber Stand position initalised: Altitude = 30.0; Azimuth = 0.0
+12/07/2022 10:23:12: Zaber Stand has moved -30.0 degrees to new position 0.0
+12/07/2022 10:23:12: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 0.0
+12/07/2022 10:23:14: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 0.0
+12/07/2022 10:23:17: Zaber Stand has moved -30.0 degrees to new position -30.0
+12/07/2022 10:23:17: Zaber Stand position initalised: Altitude = 0.0; Azimuth = -30.0
+12/07/2022 10:23:19: Zaber Stand position initalised: Altitude = 0.0; Azimuth = -30.0
+12/07/2022 10:23:23: Zaber Stand has moved 30.0 degrees to new position 0.0
+12/07/2022 10:23:23: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 0.0
+12/07/2022 10:23:24: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 0.0
+12/07/2022 10:23:27: Zaber Stand has moved 30.0 degrees to new position 30.0
+12/07/2022 10:23:27: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 30.0
+12/07/2022 10:23:28: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 30.0
+12/07/2022 10:23:32: Zaber Stand has moved -30.0 degrees to new position 0.0
+12/07/2022 10:23:32: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 0.0
+12/07/2022 10:23:33: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 0.0
+12/07/2022 10:23:36: Zaber Stand has moved -30.0 degrees to new position -30.0
+12/07/2022 10:23:36: Zaber Stand position initalised: Altitude = -30.0; Azimuth = 0.0
+12/07/2022 10:23:39: Zaber Stand position initalised: Altitude = -30.0; Azimuth = 0.0
+12/07/2022 10:23:43: Zaber Stand has moved 30.0 degrees to new position 0.0
+12/07/2022 10:23:43: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 0.0
+12/07/2022 10:26:55: _______________________________________________
+12/07/2022 10:26:55: |                                             |
+12/07/2022 10:26:55: | ___  ___  ____ ___  _   _  ___    ____ ____ |
+12/07/2022 10:26:55: ||[_]||[_]|  || ||^||||\V/||||^||    ||   ||  |
+12/07/2022 10:26:55: |||'' ||^\\  ||  \\  || V || \\      ||   ||  |
+12/07/2022 10:26:55: |||   ||  \\_||_||_||||   ||||_||   _||_ _||_ |
+12/07/2022 10:26:55: |                                             |
+12/07/2022 10:26:55: |Author: John Archibald Page                  |
+12/07/2022 10:26:55: |Created on: 30/11/2022                       |
+12/07/2022 10:26:55: |Last updated on: 30/11/2022                  |
+12/07/2022 10:26:55: |_____________________________________________|
+12/07/2022 10:26:55: Initiating program...
+12/07/2022 10:26:55: Launch Window initiating...
+12/07/2022 10:26:55: Launch Window initiated Successfully!
+12/07/2022 10:27:06: Equipment Serial Port Configuration set:
+12/07/2022 10:27:06: component,connected,COMS
+12/07/2022 10:27:06: MainCamera,False,0
+12/07/2022 10:27:06: AzimuthAltitudeStand,True,5
+12/07/2022 10:27:06: Filter,False,0
+12/07/2022 10:27:06: Focuser,False,0
+12/07/2022 10:27:06: RGBCamera,False,0
+12/07/2022 10:27:06: Initiating Main window...
+12/07/2022 10:27:06: Main window initiated successfully!
+12/07/2022 10:27:09: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 0.0
+12/07/2022 10:27:11: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 0.0
+12/07/2022 10:27:12: Zaber Stand has moved -5 degrees to new position -5.0
+12/07/2022 10:27:12: Zaber Stand position initalised: Altitude = 0.0; Azimuth = -5.0
+12/07/2022 10:27:13: Zaber Stand position initalised: Altitude = 0.0; Azimuth = -5.0
+12/07/2022 10:27:14: Zaber Stand has moved 5 degrees to new position 0.0
+12/07/2022 10:27:14: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 0.0
+12/07/2022 10:27:14: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 0.0
+12/07/2022 10:27:15: Zaber Stand has moved 5 degrees to new position 5.0
+12/07/2022 10:27:15: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 5.0
+12/07/2022 10:27:16: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 5.0
+12/07/2022 10:27:17: Zaber Stand has moved 5 degrees to new position 10.0
+12/07/2022 10:27:17: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 10.0
+12/07/2022 10:27:17: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 10.0
+12/07/2022 10:27:18: Zaber Stand has moved 5 degrees to new position 15.0
+12/07/2022 10:27:18: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 15.0
+12/07/2022 10:27:19: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 15.0
+12/07/2022 10:27:20: Zaber Stand has moved 5 degrees to new position 20.0
+12/07/2022 10:27:20: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 20.0
+12/07/2022 10:27:20: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 20.0
+12/07/2022 10:27:21: Zaber Stand has moved 5 degrees to new position 25.0
+12/07/2022 10:27:21: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 25.0
+12/07/2022 10:27:21: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 25.0
+12/07/2022 10:27:22: Zaber Stand has moved 5 degrees to new position 30.0
+12/07/2022 10:27:22: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 30.0
+12/07/2022 10:27:22: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 30.0
+12/07/2022 10:27:23: Zaber Stand has moved 5 degrees to new position 35.0
+12/07/2022 10:27:23: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 35.0
+12/07/2022 10:27:23: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 35.0
+12/07/2022 10:27:24: Zaber Stand has moved 5 degrees to new position 40.0
+12/07/2022 10:27:24: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 40.0
+12/07/2022 10:27:24: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 40.0
+12/07/2022 10:27:25: Zaber Stand has moved 5 degrees to new position 45.0
+12/07/2022 10:27:25: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 45.0
+12/07/2022 10:27:25: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 45.0
+12/07/2022 10:27:26: Zaber Stand has moved 5 degrees to new position 50.0
+12/07/2022 10:27:26: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 50.0
+12/07/2022 10:27:26: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 50.0
+12/07/2022 10:27:27: Zaber Stand has moved 5 degrees to new position 55.0
+12/07/2022 10:27:27: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 55.0
+12/07/2022 10:28:17: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 55.0
+12/07/2022 10:28:18: Zaber Stand has moved 5 degrees to new position 60.0
+12/07/2022 10:28:18: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 60.0
+12/07/2022 10:28:18: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 60.0
+12/07/2022 10:28:19: Zaber Stand has moved 5 degrees to new position 65.0
+12/07/2022 10:28:19: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 65.0
+12/07/2022 10:28:20: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 65.0
+12/07/2022 10:28:21: Zaber Stand has moved 5 degrees to new position 70.0
+12/07/2022 10:28:21: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 70.0
+12/07/2022 10:28:22: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 70.0
+12/07/2022 10:28:23: Zaber Stand has moved 5 degrees to new position 75.0
+12/07/2022 10:28:23: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 75.0
+12/07/2022 10:28:24: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 75.0
+12/07/2022 10:28:25: Zaber Stand has moved 5 degrees to new position 80.0
+12/07/2022 10:28:25: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 80.0
+12/07/2022 10:28:25: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 80.0
+12/07/2022 10:28:26: Zaber Stand has moved 5 degrees to new position 85.0
+12/07/2022 10:28:26: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 85.0
+12/07/2022 10:28:27: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 85.0
+12/07/2022 10:28:28: Zaber Stand has moved 5 degrees to new position 90.0
+12/07/2022 10:28:28: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 90.0
+12/07/2022 10:28:35: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 90.0
+12/07/2022 10:28:35: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 90.0
+12/07/2022 10:28:35: Zaber Stand has moved -0.0 degrees to new position 0.0
+12/07/2022 10:28:35: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 90.0
+12/07/2022 10:28:46: Zaber Stand has moved -90.0 degrees to new position 0.0
+12/07/2022 10:28:46: Zaber stand has been returned to 0,0
+12/07/2022 10:28:46: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 0.0
+12/07/2022 10:31:02: _______________________________________________
+12/07/2022 10:31:02: |                                             |
+12/07/2022 10:31:02: | ___  ___  ____ ___  _   _  ___    ____ ____ |
+12/07/2022 10:31:02: ||[_]||[_]|  || ||^||||\V/||||^||    ||   ||  |
+12/07/2022 10:31:02: |||'' ||^\\  ||  \\  || V || \\      ||   ||  |
+12/07/2022 10:31:02: |||   ||  \\_||_||_||||   ||||_||   _||_ _||_ |
+12/07/2022 10:31:02: |                                             |
+12/07/2022 10:31:02: |Author: John Archibald Page                  |
+12/07/2022 10:31:02: |Created on: 30/11/2022                       |
+12/07/2022 10:31:02: |Last updated on: 30/11/2022                  |
+12/07/2022 10:31:02: |_____________________________________________|
+12/07/2022 10:31:02: Initiating program...
+12/07/2022 10:31:02: Launch Window initiating...
+12/07/2022 10:31:02: Launch Window initiated Successfully!
+12/07/2022 10:31:12: Equipment Serial Port Configuration set:
+12/07/2022 10:31:12: component,connected,COMS
+12/07/2022 10:31:12: MainCamera,False,0
+12/07/2022 10:31:12: AzimuthAltitudeStand,True,5
+12/07/2022 10:31:12: Filter,False,0
+12/07/2022 10:31:12: Focuser,False,0
+12/07/2022 10:31:12: RGBCamera,False,0
+12/07/2022 10:31:12: Initiating Main window...
+12/07/2022 10:31:12: Main window initiated successfully!
+12/07/2022 10:31:15: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 0.0
+12/07/2022 10:31:31: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 0.0
+12/07/2022 10:31:32: Zaber Stand has moved -5 degrees to new position -5.0
+12/07/2022 10:31:32: Zaber Stand position initalised: Altitude = 0.0; Azimuth = -5.0
+12/07/2022 10:31:33: Zaber Stand position initalised: Altitude = 0.0; Azimuth = -5.0
+12/07/2022 10:31:34: Zaber Stand has moved -5 degrees to new position -10.0
+12/07/2022 10:31:34: Zaber Stand position initalised: Altitude = 0.0; Azimuth = -10.0
+12/07/2022 10:31:34: Zaber Stand position initalised: Altitude = 0.0; Azimuth = -10.0
+12/07/2022 10:31:35: Zaber Stand has moved -5 degrees to new position -15.0
+12/07/2022 10:31:35: Zaber Stand position initalised: Altitude = 0.0; Azimuth = -15.0
+12/07/2022 10:31:37: Zaber Stand position initalised: Altitude = 0.0; Azimuth = -15.0
+12/07/2022 10:31:37: Zaber Stand has moved -5 degrees to new position -20.0
+12/07/2022 10:31:37: Zaber Stand position initalised: Altitude = 0.0; Azimuth = -20.0
+12/07/2022 10:31:47: Zaber Stand position initalised: Altitude = 0.0; Azimuth = -20.0
+12/07/2022 10:31:48: Zaber Stand has moved -5 degrees to new position -25.0
+12/07/2022 10:31:48: Zaber Stand position initalised: Altitude = 0.0; Azimuth = -25.0
+12/07/2022 10:31:49: Zaber Stand position initalised: Altitude = 0.0; Azimuth = -25.0
+12/07/2022 10:31:50: Zaber Stand has moved -5 degrees to new position -30.0
+12/07/2022 10:31:50: Zaber Stand position initalised: Altitude = 0.0; Azimuth = -30.0
+12/07/2022 10:31:55: Zaber Stand position initalised: Altitude = 0.0; Azimuth = -30.0
+12/07/2022 10:31:56: Zaber Stand has moved 5 degrees to new position -25.0
+12/07/2022 10:31:56: Zaber Stand position initalised: Altitude = 0.0; Azimuth = -25.0
+12/07/2022 10:31:57: Zaber Stand position initalised: Altitude = 0.0; Azimuth = -25.0
+12/07/2022 10:31:57: Zaber Stand has moved 5 degrees to new position -20.0
+12/07/2022 10:31:57: Zaber Stand position initalised: Altitude = 0.0; Azimuth = -20.0
+12/07/2022 10:31:59: Zaber Stand position initalised: Altitude = 0.0; Azimuth = -20.0
+12/07/2022 10:32:00: Zaber Stand has moved -5 degrees to new position -25.0
+12/07/2022 10:32:00: Zaber Stand position initalised: Altitude = 0.0; Azimuth = -25.0
+12/07/2022 10:32:53: _______________________________________________
+12/07/2022 10:32:53: |                                             |
+12/07/2022 10:32:53: | ___  ___  ____ ___  _   _  ___    ____ ____ |
+12/07/2022 10:32:53: ||[_]||[_]|  || ||^||||\V/||||^||    ||   ||  |
+12/07/2022 10:32:53: |||'' ||^\\  ||  \\  || V || \\      ||   ||  |
+12/07/2022 10:32:53: |||   ||  \\_||_||_||||   ||||_||   _||_ _||_ |
+12/07/2022 10:32:53: |                                             |
+12/07/2022 10:32:53: |Author: John Archibald Page                  |
+12/07/2022 10:32:53: |Created on: 30/11/2022                       |
+12/07/2022 10:32:53: |Last updated on: 30/11/2022                  |
+12/07/2022 10:32:53: |_____________________________________________|
+12/07/2022 10:32:53: Initiating program...
+12/07/2022 10:32:53: Launch Window initiating...
+12/07/2022 10:32:53: Launch Window initiated Successfully!
+12/07/2022 10:33:00: Equipment Serial Port Configuration set:
+12/07/2022 10:33:00: component,connected,COMS
+12/07/2022 10:33:00: MainCamera,False,0
+12/07/2022 10:33:00: AzimuthAltitudeStand,True,5
+12/07/2022 10:33:00: Filter,False,0
+12/07/2022 10:33:00: Focuser,False,0
+12/07/2022 10:33:00: RGBCamera,False,0
+12/07/2022 10:33:00: Initiating Main window...
+12/07/2022 10:33:01: Main window initiated successfully!
+12/07/2022 10:33:03: Zaber Stand position initalised: Altitude = 0.0; Azimuth = -25.0
+12/07/2022 10:33:08: Zaber Stand position initalised: Altitude = 0.0; Azimuth = -25.0
+12/07/2022 10:33:08: Zaber Stand position initalised: Altitude = 0.0; Azimuth = -25.0
+12/07/2022 10:33:08: Zaber Stand has moved -0.0 degrees to new position 0.0
+12/07/2022 10:33:08: Zaber Stand position initalised: Altitude = 0.0; Azimuth = -25.0
+12/07/2022 10:33:11: Zaber Stand has moved 25.0 degrees to new position 0.0
+12/07/2022 10:33:11: Zaber stand has been returned to 0,0
+12/07/2022 10:33:11: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 0.0
+12/07/2022 10:33:24: Zaber Stand has moved to absolute position 50.0 in azi direction
+12/07/2022 10:33:24: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 50.0
+12/07/2022 10:33:44: Zaber Stand has moved to absolute position 67.0 in azi direction
+12/07/2022 10:33:44: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 67.0
+12/07/2022 10:33:52: Zaber Stand has moved to absolute position 80.0 in azi direction
+12/07/2022 10:33:52: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 80.0
+12/07/2022 10:38:31: _______________________________________________
+12/07/2022 10:38:31: |                                             |
+12/07/2022 10:38:31: | ___  ___  ____ ___  _   _  ___    ____ ____ |
+12/07/2022 10:38:31: ||[_]||[_]|  || ||^||||\V/||||^||    ||   ||  |
+12/07/2022 10:38:31: |||'' ||^\\  ||  \\  || V || \\      ||   ||  |
+12/07/2022 10:38:31: |||   ||  \\_||_||_||||   ||||_||   _||_ _||_ |
+12/07/2022 10:38:31: |                                             |
+12/07/2022 10:38:31: |Author: John Archibald Page                  |
+12/07/2022 10:38:31: |Created on: 30/11/2022                       |
+12/07/2022 10:38:31: |Last updated on: 30/11/2022                  |
+12/07/2022 10:38:31: |_____________________________________________|
+12/07/2022 10:38:31: Initiating program...
+12/07/2022 10:38:31: Launch Window initiating...
+12/07/2022 10:38:31: Launch Window initiated Successfully!
+12/07/2022 10:38:39: Equipment Serial Port Configuration set:
+12/07/2022 10:38:39: component,connected,COMS
+12/07/2022 10:38:39: MainCamera,False,0
+12/07/2022 10:38:39: AzimuthAltitudeStand,True,5
+12/07/2022 10:38:39: Filter,False,0
+12/07/2022 10:38:39: Focuser,False,0
+12/07/2022 10:38:39: RGBCamera,False,0
+12/07/2022 10:38:39: Initiating Main window...
+12/07/2022 10:38:40: Main window initiated successfully!
+12/07/2022 10:38:43: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 80.0
+12/07/2022 10:38:47: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 80.0
+12/07/2022 10:38:47: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 80.0
+12/07/2022 10:38:47: Zaber Stand has moved -0.0 degrees to new position 0.0
+12/07/2022 10:38:47: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 80.0
+12/07/2022 10:38:57: Zaber Stand has moved -80.0 degrees to new position 0.0
+12/07/2022 10:38:57: Zaber stand has been returned to 0,0
+12/07/2022 10:38:57: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 0.0
+12/07/2022 10:39:46: Zaber Stand has moved to absolute position 66.0 in azi direction
+12/07/2022 10:39:46: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 66.0
+12/07/2022 10:40:05: Zaber Stand has moved to absolute position -66.0 in azi direction
+12/07/2022 10:40:05: Zaber Stand position initalised: Altitude = 0.0; Azimuth = -66.0
+12/07/2022 10:44:35: _______________________________________________
+12/07/2022 10:44:35: |                                             |
+12/07/2022 10:44:35: | ___  ___  ____ ___  _   _  ___    ____ ____ |
+12/07/2022 10:44:35: ||[_]||[_]|  || ||^||||\V/||||^||    ||   ||  |
+12/07/2022 10:44:35: |||'' ||^\\  ||  \\  || V || \\      ||   ||  |
+12/07/2022 10:44:35: |||   ||  \\_||_||_||||   ||||_||   _||_ _||_ |
+12/07/2022 10:44:35: |                                             |
+12/07/2022 10:44:35: |Author: John Archibald Page                  |
+12/07/2022 10:44:35: |Created on: 30/11/2022                       |
+12/07/2022 10:44:35: |Last updated on: 30/11/2022                  |
+12/07/2022 10:44:35: |_____________________________________________|
+12/07/2022 10:44:35: Initiating program...
+12/07/2022 10:44:35: Launch Window initiating...
+12/07/2022 10:44:35: Launch Window initiated Successfully!
+12/07/2022 10:44:46: Equipment Serial Port Configuration set:
+12/07/2022 10:44:46: component,connected,COMS
+12/07/2022 10:44:46: MainCamera,False,0
+12/07/2022 10:44:46: AzimuthAltitudeStand,True,5
+12/07/2022 10:44:46: Filter,False,0
+12/07/2022 10:44:46: Focuser,False,0
+12/07/2022 10:44:46: RGBCamera,False,0
+12/07/2022 10:44:46: Initiating Main window...
+12/07/2022 10:44:47: Main window initiated successfully!
+12/07/2022 10:44:49: Zaber Stand position initalised: Altitude = 0.0; Azimuth = -66.0
+12/07/2022 10:44:52: Zaber Stand position initalised: Altitude = 0.0; Azimuth = -66.0
+12/07/2022 10:44:52: Zaber Stand position initalised: Altitude = 0.0; Azimuth = -66.0
+12/07/2022 10:44:52: Zaber Stand has moved -0.0 degrees to new position 0.0
+12/07/2022 10:44:52: Zaber Stand position initalised: Altitude = 0.0; Azimuth = -66.0
+12/07/2022 10:45:00: Zaber Stand has moved 66.0 degrees to new position 0.0
+12/07/2022 10:45:00: Zaber stand has been returned to 0,0
+12/07/2022 10:45:00: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 0.0
+12/07/2022 10:45:40: Zaber Stand has moved to absolute position -60.0 in azi direction
+12/07/2022 10:45:40: Zaber Stand position initalised: Altitude = 0.0; Azimuth = -60.0
+12/07/2022 10:46:16: Zaber Stand has moved to absolute position 60.0 in azi direction
+12/07/2022 10:46:16: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 60.0
+12/07/2022 10:51:52: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 60.0
+12/07/2022 10:51:52: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 60.0
+12/07/2022 10:51:53: Zaber Stand has moved -0.0 degrees to new position 0.0
+12/07/2022 10:51:53: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 60.0
+12/07/2022 10:52:00: Zaber Stand has moved -60.0 degrees to new position 0.0
+12/07/2022 10:52:00: Zaber stand has been returned to 0,0
+12/07/2022 10:52:00: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 0.0
+12/07/2022 10:52:13: Zaber Stand has moved to absolute position 0.0 in azi direction
+12/07/2022 10:52:13: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 0.0
+12/07/2022 10:52:21: Zaber Stand has moved to absolute position 0.0 in azi direction
+12/07/2022 10:52:21: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 0.0
+12/07/2022 10:52:26: Zaber Stand has moved to absolute position 0.0 in azi direction
+12/07/2022 10:52:26: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 0.0
+12/07/2022 10:52:29: Zaber Stand has moved to absolute position 0.0 in azi direction
+12/07/2022 10:52:29: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 0.0
+12/07/2022 10:52:33: Zaber Stand has moved to absolute position 0.0 in azi direction
+12/07/2022 10:52:33: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 0.0
+12/07/2022 11:17:40: _______________________________________________
+12/07/2022 11:17:40: |                                             |
+12/07/2022 11:17:40: | ___  ___  ____ ___  _   _  ___    ____ ____ |
+12/07/2022 11:17:40: ||[_]||[_]|  || ||^||||\V/||||^||    ||   ||  |
+12/07/2022 11:17:40: |||'' ||^\\  ||  \\  || V || \\      ||   ||  |
+12/07/2022 11:17:40: |||   ||  \\_||_||_||||   ||||_||   _||_ _||_ |
+12/07/2022 11:17:40: |                                             |
+12/07/2022 11:17:40: |Author: John Archibald Page                  |
+12/07/2022 11:17:40: |Created on: 30/11/2022                       |
+12/07/2022 11:17:40: |Last updated on: 30/11/2022                  |
+12/07/2022 11:17:40: |_____________________________________________|
+12/07/2022 11:17:40: Initiating program...
+12/07/2022 11:17:40: Launch Window initiating...
+12/07/2022 11:17:40: Launch Window initiated Successfully!
+12/07/2022 11:17:51: Equipment Serial Port Configuration set:
+12/07/2022 11:17:51: component,connected,COMS
+12/07/2022 11:17:51: MainCamera,False,0
+12/07/2022 11:17:51: AzimuthAltitudeStand,True,5
+12/07/2022 11:17:51: Filter,False,0
+12/07/2022 11:17:51: Focuser,False,0
+12/07/2022 11:17:51: RGBCamera,False,0
+12/07/2022 11:17:51: Initiating Main window...
+12/07/2022 11:17:51: Main window initiated successfully!
+12/07/2022 11:17:54: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 0.0
+12/07/2022 11:17:58: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 0.0
+12/07/2022 11:17:59: Zaber Stand has moved -5 degrees to new position -5.0
+12/07/2022 11:17:59: Zaber Stand position initalised: Altitude = 0.0; Azimuth = -5.0
+12/07/2022 11:18:01: Zaber Stand position initalised: Altitude = 0.0; Azimuth = -5.0
+12/07/2022 11:18:01: Zaber Stand has moved -5 degrees to new position -10.0
+12/07/2022 11:18:01: Zaber Stand position initalised: Altitude = 0.0; Azimuth = -10.0
+12/07/2022 11:18:07: Zaber Stand position initalised: Altitude = 0.0; Azimuth = -10.0
+12/07/2022 11:18:08: Zaber Stand has moved -5 degrees to new position -15.0
+12/07/2022 11:18:08: Zaber Stand position initalised: Altitude = 0.0; Azimuth = -15.0
+12/07/2022 11:18:08: Zaber Stand position initalised: Altitude = 0.0; Azimuth = -15.0
+12/07/2022 11:18:08: Zaber Stand has moved -5 degrees to new position -20.0
+12/07/2022 11:18:09: Zaber Stand position initalised: Altitude = 0.0; Azimuth = -20.0
+12/07/2022 11:18:09: Zaber Stand position initalised: Altitude = 0.0; Azimuth = -20.0
+12/07/2022 11:18:09: Zaber Stand has moved -5 degrees to new position -25.0
+12/07/2022 11:18:09: Zaber Stand position initalised: Altitude = 0.0; Azimuth = -25.0
+12/07/2022 11:18:10: Zaber Stand position initalised: Altitude = 0.0; Azimuth = -25.0
+12/07/2022 11:18:11: Zaber Stand has moved 5 degrees to new position -20.0
+12/07/2022 11:18:11: Zaber Stand position initalised: Altitude = 0.0; Azimuth = -20.0
+12/07/2022 11:18:11: Zaber Stand position initalised: Altitude = 0.0; Azimuth = -20.0
+12/07/2022 11:18:12: Zaber Stand has moved 5 degrees to new position -15.0
+12/07/2022 11:18:12: Zaber Stand position initalised: Altitude = 0.0; Azimuth = -15.0
+12/07/2022 11:18:12: Zaber Stand position initalised: Altitude = 0.0; Azimuth = -15.0
+12/07/2022 11:18:13: Zaber Stand has moved 5 degrees to new position -10.0
+12/07/2022 11:18:13: Zaber Stand position initalised: Altitude = 0.0; Azimuth = -10.0
+12/07/2022 11:18:13: Zaber Stand position initalised: Altitude = 0.0; Azimuth = -10.0
+12/07/2022 11:18:14: Zaber Stand has moved 5 degrees to new position -5.0
+12/07/2022 11:18:14: Zaber Stand position initalised: Altitude = 0.0; Azimuth = -5.0
+12/07/2022 11:18:14: Zaber Stand position initalised: Altitude = 0.0; Azimuth = -5.0
+12/07/2022 11:18:15: Zaber Stand has moved 5 degrees to new position 5.0
+12/07/2022 11:18:15: Zaber Stand position initalised: Altitude = 5.0; Azimuth = -5.0
+12/07/2022 11:18:15: Zaber Stand position initalised: Altitude = 5.0; Azimuth = -5.0
+12/07/2022 11:18:16: Zaber Stand has moved 5 degrees to new position 10.0
+12/07/2022 11:18:16: Zaber Stand position initalised: Altitude = 10.0; Azimuth = -5.0
+12/07/2022 11:18:18: Zaber Stand position initalised: Altitude = 10.0; Azimuth = -5.0
+12/07/2022 11:18:18: Zaber Stand has moved 5 degrees to new position 15.0
+12/07/2022 11:18:19: Zaber Stand position initalised: Altitude = 15.0; Azimuth = -5.0
+12/07/2022 11:18:19: Zaber Stand position initalised: Altitude = 15.0; Azimuth = -5.0
+12/07/2022 11:18:19: Zaber Stand has moved 5 degrees to new position 20.0
+12/07/2022 11:18:19: Zaber Stand position initalised: Altitude = 20.0; Azimuth = -5.0
+12/07/2022 11:18:20: Zaber Stand position initalised: Altitude = 20.0; Azimuth = -5.0
+12/07/2022 11:18:21: Zaber Stand has moved -5 degrees to new position 15.0
+12/07/2022 11:18:21: Zaber Stand position initalised: Altitude = 15.0; Azimuth = -5.0
+12/07/2022 11:18:21: Zaber Stand position initalised: Altitude = 15.0; Azimuth = -5.0
+12/07/2022 11:18:22: Zaber Stand has moved -5 degrees to new position 10.0
+12/07/2022 11:18:22: Zaber Stand position initalised: Altitude = 10.0; Azimuth = -5.0
+12/07/2022 11:18:22: Zaber Stand position initalised: Altitude = 10.0; Azimuth = -5.0
+12/07/2022 11:18:23: Zaber Stand has moved -5 degrees to new position 5.0
+12/07/2022 11:18:23: Zaber Stand position initalised: Altitude = 5.0; Azimuth = -5.0
+12/07/2022 11:18:23: Zaber Stand position initalised: Altitude = 5.0; Azimuth = -5.0
+12/07/2022 11:18:24: Zaber Stand has moved -5 degrees to new position 0.0
+12/07/2022 11:18:24: Zaber Stand position initalised: Altitude = 0.0; Azimuth = -5.0
+12/07/2022 11:18:24: Zaber Stand position initalised: Altitude = 0.0; Azimuth = -5.0
+12/07/2022 11:18:24: Zaber Stand has moved -5 degrees to new position -5.0
+12/07/2022 11:18:25: Zaber Stand position initalised: Altitude = -5.0; Azimuth = -5.0
+12/07/2022 11:18:35: Zaber Stand position initalised: Altitude = -5.0; Azimuth = -5.0
+12/07/2022 11:21:21: _______________________________________________
+12/07/2022 11:21:21: |                                             |
+12/07/2022 11:21:21: | ___  ___  ____ ___  _   _  ___    ____ ____ |
+12/07/2022 11:21:21: ||[_]||[_]|  || ||^||||\V/||||^||    ||   ||  |
+12/07/2022 11:21:21: |||'' ||^\\  ||  \\  || V || \\      ||   ||  |
+12/07/2022 11:21:21: |||   ||  \\_||_||_||||   ||||_||   _||_ _||_ |
+12/07/2022 11:21:21: |                                             |
+12/07/2022 11:21:21: |Author: John Archibald Page                  |
+12/07/2022 11:21:21: |Created on: 30/11/2022                       |
+12/07/2022 11:21:21: |Last updated on: 30/11/2022                  |
+12/07/2022 11:21:21: |_____________________________________________|
+12/07/2022 11:21:21: Initiating program...
+12/07/2022 11:21:21: Launch Window initiating...
+12/07/2022 11:21:21: Launch Window initiated Successfully!
+12/07/2022 11:21:29: Equipment Serial Port Configuration set:
+12/07/2022 11:21:29: component,connected,COMS
+12/07/2022 11:21:29: MainCamera,False,0
+12/07/2022 11:21:29: AzimuthAltitudeStand,True,5
+12/07/2022 11:21:29: Filter,False,0
+12/07/2022 11:21:29: Focuser,False,0
+12/07/2022 11:21:29: RGBCamera,False,0
+12/07/2022 11:21:29: Initiating Main window...
+12/07/2022 11:21:30: Main window initiated successfully!
+12/07/2022 11:21:32: Zaber Stand position initalised: Altitude = -138.88203125; Azimuth = -5.0
+12/07/2022 11:21:34: Zaber Stand position initalised: Altitude = -138.88203125; Azimuth = -5.0
+12/07/2022 11:21:34: Zaber Stand position initalised: Altitude = -138.88203125; Azimuth = -5.0
+12/07/2022 11:21:34: Zaber Stand move out of range: Altitude -60 to 60, Azimuth -180 to 180
+12/07/2022 11:21:34: Zaber Stand position initalised: Altitude = -138.88203125; Azimuth = -5.0
+12/07/2022 11:21:35: Zaber Stand has moved 5.0 degrees to new position 0.0
+12/07/2022 11:21:35: Zaber stand has been returned to 0,0
+12/07/2022 11:21:35: Zaber Stand position initalised: Altitude = -138.88203125; Azimuth = 0.0
+12/07/2022 11:21:39: Zaber Stand position initalised: Altitude = -138.88203125; Azimuth = 0.0
+12/07/2022 11:21:39: Zaber Stand position initalised: Altitude = -138.88203125; Azimuth = 0.0
+12/07/2022 11:21:39: Zaber Stand move out of range: Altitude -60 to 60, Azimuth -180 to 180
+12/07/2022 11:21:39: Zaber Stand position initalised: Altitude = -138.88203125; Azimuth = 0.0
+12/07/2022 11:21:39: Zaber Stand has moved -0.0 degrees to new position 0.0
+12/07/2022 11:21:39: Zaber stand has been returned to 0,0
+12/07/2022 11:21:39: Zaber Stand position initalised: Altitude = -138.88203125; Azimuth = 0.0
+12/07/2022 11:21:45: Zaber Stand has moved to absolute position 0.0 in azi direction
+12/07/2022 11:21:45: Zaber Stand position initalised: Altitude = -138.88203125; Azimuth = 0.0
+12/07/2022 11:21:47: Zaber Stand position initalised: Altitude = -138.88203125; Azimuth = 0.0
+12/07/2022 11:21:47: Zaber Stand position initalised: Altitude = -138.88203125; Azimuth = 0.0
+12/07/2022 11:21:47: Zaber Stand move out of range: Altitude -60 to 60, Azimuth -180 to 180
+12/07/2022 11:21:47: Zaber Stand position initalised: Altitude = -138.88203125; Azimuth = 0.0
+12/07/2022 11:21:47: Zaber Stand has moved -0.0 degrees to new position 0.0
+12/07/2022 11:21:47: Zaber stand has been returned to 0,0
+12/07/2022 11:21:47: Zaber Stand position initalised: Altitude = -138.88203125; Azimuth = 0.0
+12/07/2022 11:21:48: Zaber Stand position initalised: Altitude = -138.88203125; Azimuth = 0.0
+12/07/2022 11:21:48: Zaber Stand position initalised: Altitude = -138.88203125; Azimuth = 0.0
+12/07/2022 11:21:48: Zaber Stand move out of range: Altitude -60 to 60, Azimuth -180 to 180
+12/07/2022 11:21:48: Zaber Stand position initalised: Altitude = -138.88203125; Azimuth = 0.0
+12/07/2022 11:21:48: Zaber Stand has moved -0.0 degrees to new position 0.0
+12/07/2022 11:21:48: Zaber stand has been returned to 0,0
+12/07/2022 11:21:48: Zaber Stand position initalised: Altitude = -138.88203125; Azimuth = 0.0
+12/07/2022 11:21:48: Zaber Stand position initalised: Altitude = -138.88203125; Azimuth = 0.0
+12/07/2022 11:21:48: Zaber Stand position initalised: Altitude = -138.88203125; Azimuth = 0.0
+12/07/2022 11:21:48: Zaber Stand move out of range: Altitude -60 to 60, Azimuth -180 to 180
+12/07/2022 11:21:48: Zaber Stand position initalised: Altitude = -138.88203125; Azimuth = 0.0
+12/07/2022 11:21:48: Zaber Stand has moved -0.0 degrees to new position 0.0
+12/07/2022 11:21:48: Zaber stand has been returned to 0,0
+12/07/2022 11:21:48: Zaber Stand position initalised: Altitude = -138.88203125; Azimuth = 0.0
+12/07/2022 11:21:48: Zaber Stand position initalised: Altitude = -138.88203125; Azimuth = 0.0
+12/07/2022 11:21:48: Zaber Stand position initalised: Altitude = -138.88203125; Azimuth = 0.0
+12/07/2022 11:21:48: Zaber Stand move out of range: Altitude -60 to 60, Azimuth -180 to 180
+12/07/2022 11:21:48: Zaber Stand position initalised: Altitude = -138.88203125; Azimuth = 0.0
+12/07/2022 11:21:48: Zaber Stand has moved -0.0 degrees to new position 0.0
+12/07/2022 11:21:48: Zaber stand has been returned to 0,0
+12/07/2022 11:21:48: Zaber Stand position initalised: Altitude = -138.88203125; Azimuth = 0.0
+12/07/2022 11:21:50: Zaber Stand position initalised: Altitude = -138.88203125; Azimuth = 0.0
+12/07/2022 11:21:50: Zaber Stand position initalised: Altitude = -138.88203125; Azimuth = 0.0
+12/07/2022 11:21:50: Zaber Stand move out of range: Altitude -60 to 60, Azimuth -180 to 180
+12/07/2022 11:21:50: Zaber Stand position initalised: Altitude = -138.88203125; Azimuth = 0.0
+12/07/2022 11:21:50: Zaber Stand has moved -0.0 degrees to new position 0.0
+12/07/2022 11:21:50: Zaber stand has been returned to 0,0
+12/07/2022 11:21:51: Zaber Stand position initalised: Altitude = -138.88203125; Azimuth = 0.0
+12/07/2022 11:21:52: Zaber Stand position initalised: Altitude = -138.88203125; Azimuth = 0.0
+12/07/2022 11:21:52: Zaber Stand position initalised: Altitude = -138.88203125; Azimuth = 0.0
+12/07/2022 11:21:52: Zaber Stand move out of range: Altitude -60 to 60, Azimuth -180 to 180
+12/07/2022 11:21:52: Zaber Stand position initalised: Altitude = -138.88203125; Azimuth = 0.0
+12/07/2022 11:21:52: Zaber Stand has moved -0.0 degrees to new position 0.0
+12/07/2022 11:21:52: Zaber stand has been returned to 0,0
+12/07/2022 11:21:52: Zaber Stand position initalised: Altitude = -138.88203125; Azimuth = 0.0
+12/07/2022 11:21:52: Zaber Stand position initalised: Altitude = -138.88203125; Azimuth = 0.0
+12/07/2022 11:21:52: Zaber Stand position initalised: Altitude = -138.88203125; Azimuth = 0.0
+12/07/2022 11:21:52: Zaber Stand move out of range: Altitude -60 to 60, Azimuth -180 to 180
+12/07/2022 11:21:52: Zaber Stand position initalised: Altitude = -138.88203125; Azimuth = 0.0
+12/07/2022 11:21:52: Zaber Stand has moved -0.0 degrees to new position 0.0
+12/07/2022 11:21:52: Zaber stand has been returned to 0,0
+12/07/2022 11:21:52: Zaber Stand position initalised: Altitude = -138.88203125; Azimuth = 0.0
+12/07/2022 11:22:33: _______________________________________________
+12/07/2022 11:22:33: |                                             |
+12/07/2022 11:22:33: | ___  ___  ____ ___  _   _  ___    ____ ____ |
+12/07/2022 11:22:33: ||[_]||[_]|  || ||^||||\V/||||^||    ||   ||  |
+12/07/2022 11:22:33: |||'' ||^\\  ||  \\  || V || \\      ||   ||  |
+12/07/2022 11:22:33: |||   ||  \\_||_||_||||   ||||_||   _||_ _||_ |
+12/07/2022 11:22:33: |                                             |
+12/07/2022 11:22:33: |Author: John Archibald Page                  |
+12/07/2022 11:22:33: |Created on: 30/11/2022                       |
+12/07/2022 11:22:33: |Last updated on: 30/11/2022                  |
+12/07/2022 11:22:33: |_____________________________________________|
+12/07/2022 11:22:33: Initiating program...
+12/07/2022 11:22:33: Launch Window initiating...
+12/07/2022 11:22:33: Launch Window initiated Successfully!
+12/07/2022 11:22:41: Equipment Serial Port Configuration set:
+12/07/2022 11:22:41: component,connected,COMS
+12/07/2022 11:22:41: MainCamera,False,0
+12/07/2022 11:22:41: AzimuthAltitudeStand,True,5
+12/07/2022 11:22:41: Filter,False,0
+12/07/2022 11:22:41: Focuser,False,0
+12/07/2022 11:22:41: RGBCamera,False,0
+12/07/2022 11:22:41: Initiating Main window...
+12/07/2022 11:22:42: Main window initiated successfully!
+12/07/2022 11:22:44: Zaber Stand position initalised: Altitude = -4.1228125; Azimuth = 0.0
+12/07/2022 11:22:46: Zaber Stand position initalised: Altitude = -4.1228125; Azimuth = 0.0
+12/07/2022 11:22:46: Zaber Stand position initalised: Altitude = -4.1228125; Azimuth = 0.0
+12/07/2022 11:22:46: Zaber Stand has moved -4.1228125 degrees to new position -8.245625
+12/07/2022 11:22:46: Zaber Stand position initalised: Altitude = -8.245625; Azimuth = 0.0
+12/07/2022 11:22:47: Zaber Stand has moved -0.0 degrees to new position 0.0
+12/07/2022 11:22:47: Zaber stand has been returned to 0,0
+12/07/2022 11:22:47: Zaber Stand position initalised: Altitude = -8.245625; Azimuth = 0.0
+12/07/2022 11:22:48: Zaber Stand position initalised: Altitude = -8.245625; Azimuth = 0.0
+12/07/2022 11:22:48: Zaber Stand position initalised: Altitude = -8.245625; Azimuth = 0.0
+12/07/2022 11:22:50: Zaber Stand has moved -8.245625 degrees to new position -16.49125
+12/07/2022 11:22:50: Zaber Stand position initalised: Altitude = -16.49125; Azimuth = 0.0
+12/07/2022 11:22:50: Zaber Stand has moved -0.0 degrees to new position 0.0
+12/07/2022 11:22:50: Zaber stand has been returned to 0,0
+12/07/2022 11:22:50: Zaber Stand position initalised: Altitude = -16.49125; Azimuth = 0.0
+12/07/2022 11:22:53: Zaber Stand position initalised: Altitude = -16.49125; Azimuth = 0.0
+12/07/2022 11:22:53: Zaber Stand position initalised: Altitude = -16.49125; Azimuth = 0.0
+12/07/2022 11:22:55: Zaber Stand has moved -16.49125 degrees to new position -32.9825
+12/07/2022 11:22:55: Zaber Stand position initalised: Altitude = -32.9825; Azimuth = 0.0
+12/07/2022 11:22:56: Zaber Stand has moved -0.0 degrees to new position 0.0
+12/07/2022 11:22:56: Zaber stand has been returned to 0,0
+12/07/2022 11:22:56: Zaber Stand position initalised: Altitude = -32.9825; Azimuth = 0.0
+12/07/2022 11:23:03: Zaber Stand position initalised: Altitude = -32.9825; Azimuth = 0.0
+12/07/2022 11:23:03: Zaber Stand position initalised: Altitude = -32.9825; Azimuth = 0.0
+12/07/2022 11:23:03: Zaber Stand move out of range: Altitude -60 to 60, Azimuth -180 to 180
+12/07/2022 11:23:03: Zaber Stand position initalised: Altitude = -32.9825; Azimuth = 0.0
+12/07/2022 11:23:03: Zaber Stand has moved -0.0 degrees to new position 0.0
+12/07/2022 11:23:03: Zaber stand has been returned to 0,0
+12/07/2022 11:23:03: Zaber Stand position initalised: Altitude = -32.9825; Azimuth = 0.0
+12/07/2022 11:23:04: Zaber Stand position initalised: Altitude = -32.9825; Azimuth = 0.0
+12/07/2022 11:23:04: Zaber Stand position initalised: Altitude = -32.9825; Azimuth = 0.0
+12/07/2022 11:23:04: Zaber Stand move out of range: Altitude -60 to 60, Azimuth -180 to 180
+12/07/2022 11:23:04: Zaber Stand position initalised: Altitude = -32.9825; Azimuth = 0.0
+12/07/2022 11:23:04: Zaber Stand has moved -0.0 degrees to new position 0.0
+12/07/2022 11:23:04: Zaber stand has been returned to 0,0
+12/07/2022 11:23:04: Zaber Stand position initalised: Altitude = -32.9825; Azimuth = 0.0
+12/07/2022 11:23:04: Zaber Stand position initalised: Altitude = -32.9825; Azimuth = 0.0
+12/07/2022 11:23:04: Zaber Stand position initalised: Altitude = -32.9825; Azimuth = 0.0
+12/07/2022 11:23:04: Zaber Stand move out of range: Altitude -60 to 60, Azimuth -180 to 180
+12/07/2022 11:23:04: Zaber Stand position initalised: Altitude = -32.9825; Azimuth = 0.0
+12/07/2022 11:23:04: Zaber Stand has moved -0.0 degrees to new position 0.0
+12/07/2022 11:23:04: Zaber stand has been returned to 0,0
+12/07/2022 11:23:04: Zaber Stand position initalised: Altitude = -32.9825; Azimuth = 0.0
+12/07/2022 11:23:04: Zaber Stand position initalised: Altitude = -32.9825; Azimuth = 0.0
+12/07/2022 11:23:04: Zaber Stand position initalised: Altitude = -32.9825; Azimuth = 0.0
+12/07/2022 11:23:04: Zaber Stand move out of range: Altitude -60 to 60, Azimuth -180 to 180
+12/07/2022 11:23:04: Zaber Stand position initalised: Altitude = -32.9825; Azimuth = 0.0
+12/07/2022 11:23:04: Zaber Stand has moved -0.0 degrees to new position 0.0
+12/07/2022 11:23:04: Zaber stand has been returned to 0,0
+12/07/2022 11:23:04: Zaber Stand position initalised: Altitude = -32.9825; Azimuth = 0.0
+12/07/2022 11:23:04: Zaber Stand position initalised: Altitude = -32.9825; Azimuth = 0.0
+12/07/2022 11:23:04: Zaber Stand position initalised: Altitude = -32.9825; Azimuth = 0.0
+12/07/2022 11:23:04: Zaber Stand move out of range: Altitude -60 to 60, Azimuth -180 to 180
+12/07/2022 11:23:04: Zaber Stand position initalised: Altitude = -32.9825; Azimuth = 0.0
+12/07/2022 11:23:05: Zaber Stand has moved -0.0 degrees to new position 0.0
+12/07/2022 11:23:05: Zaber stand has been returned to 0,0
+12/07/2022 11:23:05: Zaber Stand position initalised: Altitude = -32.9825; Azimuth = 0.0
+12/07/2022 11:23:05: Zaber Stand position initalised: Altitude = -32.9825; Azimuth = 0.0
+12/07/2022 11:23:05: Zaber Stand position initalised: Altitude = -32.9825; Azimuth = 0.0
+12/07/2022 11:23:05: Zaber Stand move out of range: Altitude -60 to 60, Azimuth -180 to 180
+12/07/2022 11:23:05: Zaber Stand position initalised: Altitude = -32.9825; Azimuth = 0.0
+12/07/2022 11:23:05: Zaber Stand has moved -0.0 degrees to new position 0.0
+12/07/2022 11:23:05: Zaber stand has been returned to 0,0
+12/07/2022 11:23:05: Zaber Stand position initalised: Altitude = -32.9825; Azimuth = 0.0
+12/07/2022 11:56:01: _______________________________________________
+12/07/2022 11:56:01: |                                             |
+12/07/2022 11:56:01: | ___  ___  ____ ___  _   _  ___    ____ ____ |
+12/07/2022 11:56:01: ||[_]||[_]|  || ||^||||\V/||||^||    ||   ||  |
+12/07/2022 11:56:01: |||'' ||^\\  ||  \\  || V || \\      ||   ||  |
+12/07/2022 11:56:01: |||   ||  \\_||_||_||||   ||||_||   _||_ _||_ |
+12/07/2022 11:56:01: |                                             |
+12/07/2022 11:56:01: |Author: John Archibald Page                  |
+12/07/2022 11:56:01: |Created on: 30/11/2022                       |
+12/07/2022 11:56:01: |Last updated on: 30/11/2022                  |
+12/07/2022 11:56:01: |_____________________________________________|
+12/07/2022 11:56:01: Initiating program...
+12/07/2022 11:56:01: Launch Window initiating...
+12/07/2022 11:56:01: Launch Window initiated Successfully!
+12/07/2022 11:56:12: Equipment Serial Port Configuration set:
+12/07/2022 11:56:12: component,connected,COMS
+12/07/2022 11:56:12: MainCamera,False,0
+12/07/2022 11:56:12: AzimuthAltitudeStand,False,0
+12/07/2022 11:56:12: Filter,True,6
+12/07/2022 11:56:12: Focuser,False,0
+12/07/2022 11:56:12: RGBCamera,False,0
+12/07/2022 11:56:12: Initiating Main window...
+12/07/2022 11:56:13: Main window initiated successfully!
+12/07/2022 11:56:13: COM6 has been opened!
+12/07/2022 11:57:00: The Filter has been set to filter 1 and speed 7
+12/07/2022 11:57:00: The Filter has been set to filter 2 and speed 7
+12/07/2022 11:57:00: The Filter has been set to filter 3 and speed 7
+12/07/2022 11:57:00: The Filter has been set to filter 4 and speed 7
+12/07/2022 11:57:00: The Filter has been set to filter 5 and speed 7
+12/07/2022 11:57:01: The Filter has been set to filter 6 and speed 7
+12/07/2022 11:57:01: The Filter has been set to filter 7 and speed 7
+12/07/2022 11:57:02: The Filter has been set to filter 8 and speed 7
+12/07/2022 11:57:02: The Filter has been set to filter 9 and speed 7
+12/07/2022 11:57:05: The Filter has been set to filter 0 and speed 7
+12/07/2022 11:57:06: The Filter has been set to filter 1 and speed 7
+12/07/2022 11:57:07: The Filter has been set to filter 2 and speed 7
+12/07/2022 11:57:07: The Filter has been set to filter 3 and speed 7
+12/07/2022 11:57:08: The Filter has been set to filter 4 and speed 7
+12/07/2022 11:57:08: The Filter has been set to filter 5 and speed 7
+12/07/2022 11:57:08: The Filter has been set to filter 6 and speed 7
+12/07/2022 11:57:08: The Filter has been set to filter 7 and speed 7
+12/07/2022 11:57:09: The Filter has been set to filter 8 and speed 7
+12/07/2022 11:57:09: The Filter has been set to filter 9 and speed 7
+12/07/2022 11:57:09: The Filter has been set to filter 0 and speed 7
+12/07/2022 11:57:09: The Filter has been set to filter 1 and speed 7
+12/07/2022 11:57:09: The Filter has been set to filter 2 and speed 7
+12/07/2022 11:57:10: The Filter has been set to filter 3 and speed 7
+12/07/2022 11:57:10: The Filter has been set to filter 4 and speed 7
+12/07/2022 11:57:10: The Filter has been set to filter 5 and speed 7
+12/07/2022 11:57:10: The Filter has been set to filter 6 and speed 7
+12/07/2022 11:57:10: The Filter has been set to filter 7 and speed 7
+12/07/2022 11:57:11: The Filter has been set to filter 8 and speed 7
+12/07/2022 11:57:11: The Filter has been set to filter 9 and speed 7
+12/07/2022 11:57:11: The Filter has been set to filter 0 and speed 7
+12/07/2022 11:57:11: The Filter has been set to filter 1 and speed 7
+12/07/2022 11:57:11: The Filter has been set to filter 2 and speed 7
+12/07/2022 11:57:11: The Filter has been set to filter 3 and speed 7
+12/07/2022 11:57:12: The Filter has been set to filter 4 and speed 7
+12/07/2022 11:57:12: The Filter has been set to filter 5 and speed 7
+12/07/2022 11:57:12: The Filter has been set to filter 6 and speed 7
+12/07/2022 11:57:12: The Filter has been set to filter 7 and speed 7
+12/07/2022 11:57:12: The Filter has been set to filter 8 and speed 7
+12/07/2022 11:57:12: The Filter has been set to filter 9 and speed 7
+12/07/2022 11:57:13: The Filter has been set to filter 0 and speed 7
+12/07/2022 11:57:13: The Filter has been set to filter 1 and speed 7
+12/07/2022 11:57:13: The Filter has been set to filter 2 and speed 7
+12/07/2022 11:57:13: The Filter has been set to filter 3 and speed 7
+12/07/2022 11:57:13: The Filter has been set to filter 4 and speed 7
+12/07/2022 11:57:13: The Filter has been set to filter 5 and speed 7
+12/07/2022 11:57:13: The Filter has been set to filter 6 and speed 7
+12/07/2022 11:57:14: The Filter has been set to filter 7 and speed 7
+12/07/2022 11:57:14: The Filter has been set to filter 8 and speed 7
+12/07/2022 11:57:14: The Filter has been set to filter 9 and speed 7
+12/07/2022 11:57:14: The Filter has been set to filter 0 and speed 7
+12/07/2022 11:57:14: The Filter has been set to filter 1 and speed 7
+12/07/2022 11:57:15: The Filter has been set to filter 2 and speed 7
+12/07/2022 11:57:15: The Filter has been set to filter 3 and speed 7
+12/07/2022 11:57:15: The Filter has been set to filter 4 and speed 7
+12/07/2022 11:57:15: The Filter has been set to filter 5 and speed 7
+12/07/2022 11:57:15: The Filter has been set to filter 6 and speed 7
+12/07/2022 11:57:15: The Filter has been set to filter 7 and speed 7
+12/07/2022 11:57:17: The Filter has been set to filter 8 and speed 7
+12/07/2022 11:57:17: The Filter has been set to filter 9 and speed 7
+12/07/2022 11:57:17: The Filter has been set to filter 0 and speed 7
+12/07/2022 11:57:17: The Filter has been set to filter 1 and speed 7
+12/07/2022 11:57:17: The Filter has been set to filter 2 and speed 7
+12/07/2022 11:57:17: The Filter has been set to filter 3 and speed 7
+12/07/2022 11:57:18: The Filter has been set to filter 4 and speed 7
+12/07/2022 11:57:18: The Filter has been set to filter 5 and speed 7
+12/07/2022 11:57:18: The Filter has been set to filter 6 and speed 7
+12/07/2022 11:57:18: The Filter has been set to filter 7 and speed 7
+12/07/2022 11:57:18: The Filter has been set to filter 8 and speed 7
+12/07/2022 11:57:18: The Filter has been set to filter 9 and speed 7
+12/07/2022 11:57:19: The Filter has been set to filter 0 and speed 7
+12/07/2022 11:57:19: The Filter has been set to filter 1 and speed 7
+12/07/2022 11:57:19: The Filter has been set to filter 2 and speed 7
+12/07/2022 11:57:19: The Filter has been set to filter 3 and speed 7
+12/07/2022 11:57:19: The Filter has been set to filter 4 and speed 7
+12/07/2022 11:57:19: The Filter has been set to filter 5 and speed 7
+12/07/2022 11:57:20: The Filter has been set to filter 6 and speed 7
+12/07/2022 11:57:20: The Filter has been set to filter 7 and speed 7
+12/07/2022 11:57:20: The Filter has been set to filter 8 and speed 7
+12/07/2022 11:57:20: The Filter has been set to filter 9 and speed 7
+12/07/2022 11:57:20: The Filter has been set to filter 0 and speed 7
+12/07/2022 11:57:21: The Filter has been set to filter 1 and speed 7
+12/07/2022 11:57:21: The Filter has been set to filter 2 and speed 7
+12/07/2022 11:57:21: The Filter has been set to filter 3 and speed 7
+12/07/2022 11:57:21: The Filter has been set to filter 4 and speed 7
+12/07/2022 11:57:21: The Filter has been set to filter 5 and speed 7
+12/07/2022 11:57:21: The Filter has been set to filter 6 and speed 7
+12/07/2022 11:57:22: The Filter has been set to filter 7 and speed 7
+12/07/2022 11:57:22: The Filter has been set to filter 8 and speed 7
+12/07/2022 11:57:22: The Filter has been set to filter 9 and speed 7
+12/07/2022 11:57:22: The Filter has been set to filter 0 and speed 7
+12/07/2022 11:57:22: The Filter has been set to filter 1 and speed 7
+12/07/2022 11:57:22: The Filter has been set to filter 2 and speed 7
+12/07/2022 11:57:23: The Filter has been set to filter 3 and speed 7
+12/07/2022 11:57:23: The Filter has been set to filter 4 and speed 7
+12/07/2022 11:57:23: The Filter has been set to filter 5 and speed 7
+12/07/2022 11:57:24: The Filter has been set to filter 6 and speed 7
+12/07/2022 11:57:24: The Filter has been set to filter 7 and speed 7
+12/07/2022 11:57:24: The Filter has been set to filter 8 and speed 7
+12/07/2022 11:57:25: The Filter has been set to filter 9 and speed 7
+12/07/2022 11:57:28: The Filter has been set to filter 0 and speed 7
+12/07/2022 11:57:28: The Filter has been set to filter 1 and speed 7
+12/07/2022 11:57:29: The Filter has been set to filter 2 and speed 7
+12/07/2022 11:57:29: The Filter has been set to filter 3 and speed 7
+12/07/2022 11:57:29: The Filter has been set to filter 4 and speed 7
+12/07/2022 11:57:29: The Filter has been set to filter 5 and speed 7
+12/07/2022 11:57:29: The Filter has been set to filter 6 and speed 7
+12/07/2022 11:57:29: The Filter has been set to filter 7 and speed 7
+12/07/2022 11:57:30: The Filter has been set to filter 8 and speed 7
+12/07/2022 11:57:30: The Filter has been set to filter 9 and speed 7
+12/07/2022 11:57:30: The Filter has been set to filter 0 and speed 7
+12/07/2022 11:57:30: The Filter has been set to filter 1 and speed 7
+12/07/2022 11:57:30: The Filter has been set to filter 2 and speed 7
+12/07/2022 11:57:31: The Filter has been set to filter 3 and speed 7
+12/07/2022 11:57:31: The Filter has been set to filter 4 and speed 7
+12/07/2022 11:57:31: The Filter has been set to filter 5 and speed 7
+12/07/2022 11:57:31: The Filter has been set to filter 6 and speed 7
+12/07/2022 11:57:31: The Filter has been set to filter 7 and speed 7
+12/07/2022 11:57:31: The Filter has been set to filter 8 and speed 7
+12/07/2022 11:57:32: The Filter has been set to filter 9 and speed 7
+12/07/2022 11:57:32: The Filter has been set to filter 0 and speed 7
+12/07/2022 11:57:32: The Filter has been set to filter 1 and speed 7
+12/07/2022 11:57:32: The Filter has been set to filter 2 and speed 7
+12/07/2022 11:57:32: The Filter has been set to filter 3 and speed 7
+12/07/2022 11:57:32: The Filter has been set to filter 4 and speed 7
+12/07/2022 11:57:33: The Filter has been set to filter 5 and speed 7
+12/07/2022 11:57:33: The Filter has been set to filter 6 and speed 7
+12/07/2022 11:57:33: The Filter has been set to filter 7 and speed 7
+12/07/2022 11:57:33: The Filter has been set to filter 8 and speed 7
+12/07/2022 11:57:33: The Filter has been set to filter 9 and speed 7
+12/07/2022 11:57:33: The Filter has been set to filter 0 and speed 7
+12/07/2022 11:57:34: The Filter has been set to filter 1 and speed 7
+12/07/2022 11:57:34: The Filter has been set to filter 2 and speed 7
+12/07/2022 11:57:34: The Filter has been set to filter 3 and speed 7
+12/07/2022 11:57:34: The Filter has been set to filter 4 and speed 7
+12/07/2022 11:57:34: The Filter has been set to filter 5 and speed 7
+12/07/2022 11:57:34: The Filter has been set to filter 6 and speed 7
+12/07/2022 11:57:35: The Filter has been set to filter 7 and speed 7
+12/07/2022 11:57:35: The Filter has been set to filter 8 and speed 7
+12/07/2022 11:57:35: The Filter has been set to filter 9 and speed 7
+12/07/2022 11:57:35: The Filter has been set to filter 0 and speed 7
+12/07/2022 11:57:35: The Filter has been set to filter 1 and speed 7
+12/07/2022 11:57:36: The Filter has been set to filter 2 and speed 7
+12/07/2022 11:57:36: The Filter has been set to filter 3 and speed 7
+12/07/2022 11:57:36: The Filter has been set to filter 4 and speed 7
+12/07/2022 11:57:36: The Filter has been set to filter 5 and speed 7
+12/07/2022 11:57:36: The Filter has been set to filter 6 and speed 7
+12/07/2022 11:57:37: The Filter has been set to filter 7 and speed 7
+12/07/2022 11:57:37: The Filter has been set to filter 8 and speed 7
+12/07/2022 11:57:37: The Filter has been set to filter 9 and speed 7
+12/07/2022 11:57:38: The Filter has been set to filter 0 and speed 7
+12/07/2022 11:57:38: The Filter has been set to filter 1 and speed 7
+12/07/2022 11:57:38: The Filter has been set to filter 2 and speed 7
+12/07/2022 11:57:38: The Filter has been set to filter 3 and speed 7
+12/07/2022 12:10:19: _______________________________________________
+12/07/2022 12:10:19: |                                             |
+12/07/2022 12:10:19: | ___  ___  ____ ___  _   _  ___    ____ ____ |
+12/07/2022 12:10:19: ||[_]||[_]|  || ||^||||\V/||||^||    ||   ||  |
+12/07/2022 12:10:19: |||'' ||^\\  ||  \\  || V || \\      ||   ||  |
+12/07/2022 12:10:19: |||   ||  \\_||_||_||||   ||||_||   _||_ _||_ |
+12/07/2022 12:10:19: |                                             |
+12/07/2022 12:10:19: |Author: John Archibald Page                  |
+12/07/2022 12:10:19: |Created on: 30/11/2022                       |
+12/07/2022 12:10:19: |Last updated on: 30/11/2022                  |
+12/07/2022 12:10:19: |_____________________________________________|
+12/07/2022 12:10:19: Initiating program...
+12/07/2022 12:10:19: Launch Window initiating...
+12/07/2022 12:10:19: Launch Window initiated Successfully!
+12/07/2022 12:10:28: Equipment Serial Port Configuration set:
+12/07/2022 12:10:28: component,connected,COMS
+12/07/2022 12:10:28: MainCamera,False,0
+12/07/2022 12:10:28: AzimuthAltitudeStand,True,5
+12/07/2022 12:10:28: Filter,False,0
+12/07/2022 12:10:28: Focuser,False,0
+12/07/2022 12:10:28: RGBCamera,False,0
+12/07/2022 12:10:28: Initiating Main window...
+12/07/2022 12:10:28: Main window initiated successfully!
+12/07/2022 12:10:31: Zaber Stand position initalised: Altitude = -32.9825; Azimuth = 0.0
+12/07/2022 12:10:34: Zaber Stand position initalised: Altitude = -32.9825; Azimuth = 0.0
+12/07/2022 12:10:34: Zaber Stand position initalised: Altitude = -32.9825; Azimuth = 0.0
+12/07/2022 12:10:34: Zaber Stand move out of range: Altitude -60 to 60
+12/07/2022 12:10:34: Zaber Stand position initalised: Altitude = -32.9825; Azimuth = 0.0
+12/07/2022 12:10:34: Zaber Stand has moved -0.0 degrees to new position 0.0
+12/07/2022 12:10:34: Zaber stand has been returned to 0,0
+12/07/2022 12:10:34: Zaber Stand position initalised: Altitude = -32.9825; Azimuth = 0.0
+12/07/2022 12:10:50: Zaber Stand position initalised: Altitude = -32.9825; Azimuth = 0.0
+12/07/2022 12:10:51: Zaber Stand has moved -5 degrees to new position -37.9825
+12/07/2022 12:10:51: Zaber Stand position initalised: Altitude = -37.9825; Azimuth = 0.0
+12/07/2022 12:10:52: Zaber Stand position initalised: Altitude = -37.9825; Azimuth = 0.0
+12/07/2022 12:10:53: Zaber Stand has moved 5 degrees to new position -32.9825
+12/07/2022 12:10:53: Zaber Stand position initalised: Altitude = -32.9825; Azimuth = 0.0
+12/07/2022 12:10:53: Zaber Stand position initalised: Altitude = -32.9825; Azimuth = 0.0
+12/07/2022 12:10:54: Zaber Stand has moved 5 degrees to new position -27.9825
+12/07/2022 12:10:54: Zaber Stand position initalised: Altitude = -27.9825; Azimuth = 0.0
+12/07/2022 12:10:54: Zaber Stand position initalised: Altitude = -27.9825; Azimuth = 0.0
+12/07/2022 12:10:55: Zaber Stand has moved 5 degrees to new position -22.9825
+12/07/2022 12:10:55: Zaber Stand position initalised: Altitude = -22.9825; Azimuth = 0.0
+12/07/2022 12:10:55: Zaber Stand position initalised: Altitude = -22.9825; Azimuth = 0.0
+12/07/2022 12:10:56: Zaber Stand has moved 5 degrees to new position -17.9825
+12/07/2022 12:10:56: Zaber Stand position initalised: Altitude = -17.9825; Azimuth = 0.0
+12/07/2022 12:10:56: Zaber Stand position initalised: Altitude = -17.9825; Azimuth = 0.0
+12/07/2022 12:10:57: Zaber Stand has moved 5 degrees to new position -12.9825
+12/07/2022 12:10:57: Zaber Stand position initalised: Altitude = -12.9825; Azimuth = 0.0
+12/07/2022 12:10:57: Zaber Stand position initalised: Altitude = -12.9825; Azimuth = 0.0
+12/07/2022 12:10:58: Zaber Stand has moved 5 degrees to new position -7.9825
+12/07/2022 12:10:58: Zaber Stand position initalised: Altitude = -7.9825; Azimuth = 0.0
+12/07/2022 12:10:59: Zaber Stand position initalised: Altitude = -7.9825; Azimuth = 0.0
+12/07/2022 12:10:59: Zaber Stand has moved 5 degrees to new position -2.9825
+12/07/2022 12:10:59: Zaber Stand position initalised: Altitude = -2.9825; Azimuth = 0.0
+12/07/2022 12:11:04: Zaber Stand has moved to absolute position 0.0 in azi direction
+12/07/2022 12:11:04: Zaber Stand position initalised: Altitude = -2.9825; Azimuth = 0.0
+12/07/2022 12:11:07: Zaber Stand has moved to absolute position 0.0 in azi direction
+12/07/2022 12:11:07: Zaber Stand position initalised: Altitude = -2.9825; Azimuth = 0.0
+12/07/2022 12:11:10: Zaber Stand has moved to absolute position 0.0 in azi direction
+12/07/2022 12:11:10: Zaber Stand position initalised: Altitude = -2.9825; Azimuth = 0.0
+12/07/2022 12:11:11: Zaber Stand has moved to absolute position 0.0 in azi direction
+12/07/2022 12:11:11: Zaber Stand position initalised: Altitude = -2.9825; Azimuth = 0.0
+12/07/2022 12:11:13: Zaber Stand has moved to absolute position 0.0 in azi direction
+12/07/2022 12:11:13: Zaber Stand position initalised: Altitude = -2.9825; Azimuth = 0.0
+12/07/2022 12:11:15: Zaber Stand position initalised: Altitude = -2.9825; Azimuth = 0.0
+12/07/2022 12:11:16: Zaber Stand has moved -5 degrees to new position -5.0
+12/07/2022 12:11:16: Zaber Stand position initalised: Altitude = -2.9825; Azimuth = -5.0
+12/07/2022 12:11:16: Zaber Stand position initalised: Altitude = -2.9825; Azimuth = -5.0
+12/07/2022 12:11:17: Zaber Stand has moved 5 degrees to new position 0.0
+12/07/2022 12:11:17: Zaber Stand position initalised: Altitude = -2.9825; Azimuth = 0.0
+12/07/2022 12:11:17: Zaber Stand position initalised: Altitude = -2.9825; Azimuth = 0.0
+12/07/2022 12:11:18: Zaber Stand has moved 5 degrees to new position 5.0
+12/07/2022 12:11:18: Zaber Stand position initalised: Altitude = -2.9825; Azimuth = 5.0
+12/07/2022 12:11:22: Zaber Stand has moved to absolute position 0.0 in azi direction
+12/07/2022 12:11:22: Zaber Stand position initalised: Altitude = -2.9825; Azimuth = 0.0
+12/07/2022 12:11:37: Zaber Stand has moved to absolute position 60.0 in azi direction
+12/07/2022 12:11:37: Zaber Stand position initalised: Altitude = -2.9825; Azimuth = 60.0
+12/07/2022 12:11:48: Zaber Stand has moved to absolute position 0.0 in azi direction
+12/07/2022 12:11:48: Zaber Stand position initalised: Altitude = -2.9825; Azimuth = 0.0
+12/07/2022 12:11:51: Zaber Stand has moved to absolute position 10.0 in azi direction
+12/07/2022 12:11:51: Zaber Stand position initalised: Altitude = -2.9825; Azimuth = 10.0
+12/07/2022 12:12:04: Zaber Stand has moved to absolute position 10.0 in azi direction
+12/07/2022 12:12:04: Zaber Stand position initalised: Altitude = -2.9825; Azimuth = 10.0
+12/07/2022 12:12:10: Zaber Stand position initalised: Altitude = -2.9825; Azimuth = 10.0
+12/07/2022 12:12:11: Zaber Stand has moved 5 degrees to new position 15.0
+12/07/2022 12:12:11: Zaber Stand position initalised: Altitude = -2.9825; Azimuth = 15.0
+12/07/2022 12:12:11: Zaber Stand position initalised: Altitude = -2.9825; Azimuth = 15.0
+12/07/2022 12:12:12: Zaber Stand has moved -5 degrees to new position 10.0
+12/07/2022 12:12:12: Zaber Stand position initalised: Altitude = -2.9825; Azimuth = 10.0
+12/07/2022 12:12:13: Zaber Stand position initalised: Altitude = -2.9825; Azimuth = 10.0
+12/07/2022 12:12:14: Zaber Stand has moved -5 degrees to new position 5.0
+12/07/2022 12:12:14: Zaber Stand position initalised: Altitude = -2.9825; Azimuth = 5.0
+12/07/2022 12:12:15: Zaber Stand position initalised: Altitude = -2.9825; Azimuth = 5.0
+12/07/2022 12:12:16: Zaber Stand has moved -5 degrees to new position 0.0
+12/07/2022 12:12:16: Zaber Stand position initalised: Altitude = -2.9825; Azimuth = 0.0
+12/07/2022 12:12:16: Zaber Stand position initalised: Altitude = -2.9825; Azimuth = 0.0
+12/07/2022 12:12:17: Zaber Stand has moved -5 degrees to new position -5.0
+12/07/2022 12:12:17: Zaber Stand position initalised: Altitude = -2.9825; Azimuth = -5.0
+12/07/2022 12:12:18: Zaber Stand position initalised: Altitude = -2.9825; Azimuth = -5.0
+12/07/2022 12:12:19: Zaber Stand has moved 5 degrees to new position 0.0
+12/07/2022 12:12:19: Zaber Stand position initalised: Altitude = -2.9825; Azimuth = 0.0
+12/07/2022 12:12:20: Zaber Stand position initalised: Altitude = -2.9825; Azimuth = 0.0
+12/07/2022 12:12:21: Zaber Stand has moved 5 degrees to new position 2.0175
+12/07/2022 12:12:21: Zaber Stand position initalised: Altitude = 2.0175; Azimuth = 0.0
+12/07/2022 12:12:22: Zaber Stand position initalised: Altitude = 2.0175; Azimuth = 0.0
+12/07/2022 12:12:23: Zaber Stand has moved -5 degrees to new position -2.9825
+12/07/2022 12:12:23: Zaber Stand position initalised: Altitude = -2.9825; Azimuth = 0.0
+12/07/2022 12:12:23: Zaber Stand position initalised: Altitude = -2.9825; Azimuth = 0.0
+12/07/2022 12:12:24: Zaber Stand has moved -5 degrees to new position -7.9825
+12/07/2022 12:12:24: Zaber Stand position initalised: Altitude = -7.9825; Azimuth = 0.0
+12/07/2022 12:12:24: Zaber Stand position initalised: Altitude = -7.9825; Azimuth = 0.0
+12/07/2022 12:12:25: Zaber Stand has moved -5 degrees to new position -12.9825
+12/07/2022 12:12:25: Zaber Stand position initalised: Altitude = -12.9825; Azimuth = 0.0
+12/07/2022 12:12:25: Zaber Stand position initalised: Altitude = -12.9825; Azimuth = 0.0
+12/07/2022 12:12:26: Zaber Stand has moved -5 degrees to new position -17.9825
+12/07/2022 12:12:26: Zaber Stand position initalised: Altitude = -17.9825; Azimuth = 0.0
+12/07/2022 12:12:26: Zaber Stand position initalised: Altitude = -17.9825; Azimuth = 0.0
+12/07/2022 12:12:27: Zaber Stand has moved 5 degrees to new position -12.9825
+12/07/2022 12:12:27: Zaber Stand position initalised: Altitude = -12.9825; Azimuth = 0.0
+12/07/2022 12:12:27: Zaber Stand position initalised: Altitude = -12.9825; Azimuth = 0.0
+12/07/2022 12:12:28: Zaber Stand has moved 5 degrees to new position -7.9825
+12/07/2022 12:12:28: Zaber Stand position initalised: Altitude = -7.9825; Azimuth = 0.0
+12/07/2022 12:12:28: Zaber Stand position initalised: Altitude = -7.9825; Azimuth = 0.0
+12/07/2022 12:12:29: Zaber Stand has moved 5 degrees to new position -2.9825
+12/07/2022 12:12:29: Zaber Stand position initalised: Altitude = -2.9825; Azimuth = 0.0
+12/07/2022 12:12:31: Zaber Stand position initalised: Altitude = -2.9825; Azimuth = 0.0
+12/07/2022 12:12:31: Zaber Stand has moved 5 degrees to new position 2.0175
+12/07/2022 12:12:31: Zaber Stand position initalised: Altitude = 2.0175; Azimuth = 0.0
+12/07/2022 12:12:35: Zaber Stand position initalised: Altitude = 2.0175; Azimuth = 0.0
+12/07/2022 12:12:35: Zaber Stand position initalised: Altitude = 2.0175; Azimuth = 0.0
+12/07/2022 12:12:35: Zaber Stand has moved 2.0175 degrees to new position 4.035
+12/07/2022 12:12:35: Zaber Stand position initalised: Altitude = 4.035; Azimuth = 0.0
+12/07/2022 12:12:36: Zaber Stand has moved -0.0 degrees to new position 0.0
+12/07/2022 12:12:36: Zaber stand has been returned to 0,0
+12/07/2022 12:12:36: Zaber Stand position initalised: Altitude = 4.035; Azimuth = 0.0
+12/07/2022 12:12:39: Zaber Stand position initalised: Altitude = 4.035; Azimuth = 0.0
+12/07/2022 12:12:39: Zaber Stand position initalised: Altitude = 4.035; Azimuth = 0.0
+12/07/2022 12:12:40: Zaber Stand has moved 4.035 degrees to new position 8.07
+12/07/2022 12:12:40: Zaber Stand position initalised: Altitude = 8.07; Azimuth = 0.0
+12/07/2022 12:12:40: Zaber Stand has moved -0.0 degrees to new position 0.0
+12/07/2022 12:12:40: Zaber stand has been returned to 0,0
+12/07/2022 12:12:40: Zaber Stand position initalised: Altitude = 8.07; Azimuth = 0.0
+12/07/2022 12:28:43: _______________________________________________
+12/07/2022 12:28:43: |                                             |
+12/07/2022 12:28:43: | ___  ___  ____ ___  _   _  ___    ____ ____ |
+12/07/2022 12:28:43: ||[_]||[_]|  || ||^||||\V/||||^||    ||   ||  |
+12/07/2022 12:28:43: |||'' ||^\\  ||  \\  || V || \\      ||   ||  |
+12/07/2022 12:28:43: |||   ||  \\_||_||_||||   ||||_||   _||_ _||_ |
+12/07/2022 12:28:43: |                                             |
+12/07/2022 12:28:43: |Author: John Archibald Page                  |
+12/07/2022 12:28:43: |Created on: 30/11/2022                       |
+12/07/2022 12:28:43: |Last updated on: 30/11/2022                  |
+12/07/2022 12:28:43: |_____________________________________________|
+12/07/2022 12:28:43: Initiating program...
+12/07/2022 12:28:43: Launch Window initiating...
+12/07/2022 12:28:43: Launch Window initiated Successfully!
+12/07/2022 12:28:50: Equipment Serial Port Configuration set:
+12/07/2022 12:28:50: component,connected,COMS
+12/07/2022 12:28:50: MainCamera,False,0
+12/07/2022 12:28:50: AzimuthAltitudeStand,False,5
+12/07/2022 12:28:50: Filter,False,0
+12/07/2022 12:28:50: Focuser,False,0
+12/07/2022 12:28:50: RGBCamera,False,0
+12/07/2022 12:28:50: Initiating Main window...
+12/07/2022 12:28:51: Main window initiated successfully!
+12/07/2022 12:29:01: _______________________________________________
+12/07/2022 12:29:01: |                                             |
+12/07/2022 12:29:01: | ___  ___  ____ ___  _   _  ___    ____ ____ |
+12/07/2022 12:29:01: ||[_]||[_]|  || ||^||||\V/||||^||    ||   ||  |
+12/07/2022 12:29:01: |||'' ||^\\  ||  \\  || V || \\      ||   ||  |
+12/07/2022 12:29:01: |||   ||  \\_||_||_||||   ||||_||   _||_ _||_ |
+12/07/2022 12:29:01: |                                             |
+12/07/2022 12:29:01: |Author: John Archibald Page                  |
+12/07/2022 12:29:01: |Created on: 30/11/2022                       |
+12/07/2022 12:29:01: |Last updated on: 30/11/2022                  |
+12/07/2022 12:29:01: |_____________________________________________|
+12/07/2022 12:29:01: Initiating program...
+12/07/2022 12:29:01: Launch Window initiating...
+12/07/2022 12:29:01: Launch Window initiated Successfully!
+12/07/2022 12:29:08: Equipment Serial Port Configuration set:
+12/07/2022 12:29:08: component,connected,COMS
+12/07/2022 12:29:08: MainCamera,False,0
+12/07/2022 12:29:08: AzimuthAltitudeStand,True,5
+12/07/2022 12:29:08: Filter,False,0
+12/07/2022 12:29:08: Focuser,False,0
+12/07/2022 12:29:08: RGBCamera,False,0
+12/07/2022 12:29:08: Initiating Main window...
+12/07/2022 12:29:09: Main window initiated successfully!
+12/07/2022 12:29:12: Zaber Stand position initalised: Altitude = 8.07; Azimuth = 0.0
+12/07/2022 12:29:14: Zaber Stand position initalised: Altitude = 8.07; Azimuth = 0.0
+12/07/2022 12:29:14: Zaber Stand position initalised: Altitude = 8.07; Azimuth = 0.0
+12/07/2022 12:29:15: Zaber Stand has moved -8.07 degrees to new position 0.0
+12/07/2022 12:29:15: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 0.0
+12/07/2022 12:29:15: Zaber Stand has moved -0.0 degrees to new position 0.0
+12/07/2022 12:29:15: Zaber stand has been returned to 0,0!
+12/07/2022 12:29:15: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 0.0
+12/07/2022 12:30:36: Zaber Stand has moved to absolute position 10.0 in azi direction
+12/07/2022 12:30:36: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 10.0
+12/07/2022 12:30:42: Zaber Stand has moved to absolute position -10.0 in azi direction
+12/07/2022 12:30:42: Zaber Stand position initalised: Altitude = 0.0; Azimuth = -10.0
+12/07/2022 12:30:42: Zaber Stand position initalised: Altitude = 0.0; Azimuth = -10.0
+12/07/2022 12:30:43: Zaber Stand position initalised: Altitude = 0.0; Azimuth = -10.0
+12/07/2022 12:30:43: Zaber Stand has moved -0.0 degrees to new position 0.0
+12/07/2022 12:30:43: Zaber Stand position initalised: Altitude = 0.0; Azimuth = -10.0
+12/07/2022 12:30:44: Zaber Stand has moved 10.0 degrees to new position 0.0
+12/07/2022 12:30:44: Zaber stand has been returned to 0,0!
+12/07/2022 12:30:44: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 0.0
+12/07/2022 12:30:47: Zaber Stand has moved to absolute position 0.0 in azi direction
+12/07/2022 12:30:47: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 0.0
+12/07/2022 12:30:53: Zaber Stand has moved to absolute position 0.0 in azi direction
+12/07/2022 12:30:53: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 0.0
+12/07/2022 12:30:57: Zaber Stand has moved to absolute position 0.0 in azi direction
+12/07/2022 12:30:57: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 0.0
+12/07/2022 12:30:59: Zaber Stand has moved to absolute position 0.0 in azi direction
+12/07/2022 12:30:59: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 0.0
+12/07/2022 12:31:02: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 0.0
+12/07/2022 12:31:03: Zaber Stand has moved -5 degrees to new position -5.0
+12/07/2022 12:31:03: Zaber Stand position initalised: Altitude = 0.0; Azimuth = -5.0
+12/07/2022 12:31:04: Zaber Stand position initalised: Altitude = 0.0; Azimuth = -5.0
+12/07/2022 12:31:04: Zaber Stand has moved 5 degrees to new position 0.0
+12/07/2022 12:31:04: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 0.0
+12/07/2022 12:31:05: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 0.0
+12/07/2022 12:31:06: Zaber Stand has moved 5 degrees to new position 5.0
+12/07/2022 12:31:06: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 5.0
+12/07/2022 12:31:08: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 5.0
+12/07/2022 12:31:09: Zaber Stand has moved -5 degrees to new position 0.0
+12/07/2022 12:31:09: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 0.0
+12/07/2022 12:31:09: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 0.0
+12/07/2022 12:31:10: Zaber Stand has moved -5 degrees to new position -5.0
+12/07/2022 12:31:10: Zaber Stand position initalised: Altitude = -5.0; Azimuth = 0.0
+12/07/2022 12:31:10: Zaber Stand position initalised: Altitude = -5.0; Azimuth = 0.0
+12/07/2022 12:31:11: Zaber Stand has moved 5 degrees to new position 0.0
+12/07/2022 12:31:11: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 0.0
+12/07/2022 12:31:13: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 0.0
+12/07/2022 12:31:14: Zaber Stand has moved -5 degrees to new position -5.0
+12/07/2022 12:31:14: Zaber Stand position initalised: Altitude = 0.0; Azimuth = -5.0
+12/07/2022 12:31:14: Zaber Stand position initalised: Altitude = 0.0; Azimuth = -5.0
+12/07/2022 12:31:15: Zaber Stand has moved 5 degrees to new position 0.0
+12/07/2022 12:31:15: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 0.0
+12/07/2022 12:31:16: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 0.0
+12/07/2022 12:31:17: Zaber Stand has moved 5 degrees to new position 5.0
+12/07/2022 12:31:17: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 5.0
+12/07/2022 12:31:18: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 5.0
+12/07/2022 12:31:19: Zaber Stand has moved 5 degrees to new position 10.0
+12/07/2022 12:31:19: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 10.0
+12/07/2022 12:31:20: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 10.0
+12/07/2022 12:31:21: Zaber Stand has moved -5 degrees to new position 5.0
+12/07/2022 12:31:21: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 5.0
+12/07/2022 12:31:21: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 5.0
+12/07/2022 12:31:22: Zaber Stand has moved -5 degrees to new position 0.0
+12/07/2022 12:31:22: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 0.0
+12/07/2022 12:31:22: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 0.0
+12/07/2022 12:31:23: Zaber Stand has moved -5 degrees to new position -5.0
+12/07/2022 12:31:23: Zaber Stand position initalised: Altitude = 0.0; Azimuth = -5.0
+12/07/2022 12:31:23: Zaber Stand position initalised: Altitude = 0.0; Azimuth = -5.0
+12/07/2022 12:31:24: Zaber Stand has moved -5 degrees to new position -10.0
+12/07/2022 12:31:24: Zaber Stand position initalised: Altitude = 0.0; Azimuth = -10.0
+12/07/2022 12:31:25: Zaber Stand position initalised: Altitude = 0.0; Azimuth = -10.0
+12/07/2022 12:31:26: Zaber Stand has moved 5 degrees to new position -5.0
+12/07/2022 12:31:26: Zaber Stand position initalised: Altitude = 0.0; Azimuth = -5.0
+12/07/2022 12:31:26: Zaber Stand position initalised: Altitude = 0.0; Azimuth = -5.0
+12/07/2022 12:31:26: Zaber Stand has moved 5 degrees to new position 0.0
+12/07/2022 12:31:26: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 0.0
+12/07/2022 12:31:31: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 0.0
+12/07/2022 12:31:32: Zaber Stand has moved 5 degrees to new position 5.0
+12/07/2022 12:31:32: Zaber Stand position initalised: Altitude = 5.0; Azimuth = 0.0
+12/07/2022 12:31:34: Zaber Stand position initalised: Altitude = 5.0; Azimuth = 0.0
+12/07/2022 12:31:35: Zaber Stand has moved -5 degrees to new position 0.0
+12/07/2022 12:31:35: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 0.0
+12/07/2022 12:35:42: _______________________________________________
+12/07/2022 12:35:42: |                                             |
+12/07/2022 12:35:42: | ___  ___  ____ ___  _   _  ___    ____ ____ |
+12/07/2022 12:35:42: ||[_]||[_]|  || ||^||||\V/||||^||    ||   ||  |
+12/07/2022 12:35:42: |||'' ||^\\  ||  \\  || V || \\      ||   ||  |
+12/07/2022 12:35:42: |||   ||  \\_||_||_||||   ||||_||   _||_ _||_ |
+12/07/2022 12:35:42: |                                             |
+12/07/2022 12:35:42: |Author: John Archibald Page                  |
+12/07/2022 12:35:42: |Created on: 30/11/2022                       |
+12/07/2022 12:35:42: |Last updated on: 30/11/2022                  |
+12/07/2022 12:35:42: |_____________________________________________|
+12/07/2022 12:35:42: Initiating program...
+12/07/2022 12:35:42: Launch Window initiating...
+12/07/2022 12:35:42: Launch Window initiated Successfully!
+12/07/2022 12:35:49: Equipment Serial Port Configuration set:
+12/07/2022 12:35:49: component,connected,COMS
+12/07/2022 12:35:49: MainCamera,False,0
+12/07/2022 12:35:49: AzimuthAltitudeStand,True,5
+12/07/2022 12:35:49: Filter,False,0
+12/07/2022 12:35:49: Focuser,False,0
+12/07/2022 12:35:49: RGBCamera,False,0
+12/07/2022 12:35:50: Initiating Main window...
+12/07/2022 12:35:50: Main window initiated successfully!
+12/07/2022 12:35:53: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 0.0
+12/07/2022 12:37:42: _______________________________________________
+12/07/2022 12:37:42: |                                             |
+12/07/2022 12:37:42: | ___  ___  ____ ___  _   _  ___    ____ ____ |
+12/07/2022 12:37:42: ||[_]||[_]|  || ||^||||\V/||||^||    ||   ||  |
+12/07/2022 12:37:42: |||'' ||^\\  ||  \\  || V || \\      ||   ||  |
+12/07/2022 12:37:42: |||   ||  \\_||_||_||||   ||||_||   _||_ _||_ |
+12/07/2022 12:37:42: |                                             |
+12/07/2022 12:37:42: |Author: John Archibald Page                  |
+12/07/2022 12:37:42: |Created on: 30/11/2022                       |
+12/07/2022 12:37:42: |Last updated on: 30/11/2022                  |
+12/07/2022 12:37:42: |_____________________________________________|
+12/07/2022 12:37:42: Initiating program...
+12/07/2022 12:37:42: Launch Window initiating...
+12/07/2022 12:37:42: Launch Window initiated Successfully!
+12/07/2022 12:37:51: Equipment Serial Port Configuration set:
+12/07/2022 12:37:51: component,connected,COMS
+12/07/2022 12:37:51: MainCamera,False,0
+12/07/2022 12:37:51: AzimuthAltitudeStand,True,5
+12/07/2022 12:37:51: Filter,False,0
+12/07/2022 12:37:51: Focuser,False,0
+12/07/2022 12:37:51: RGBCamera,False,0
+12/07/2022 12:37:51: Initiating Main window...
+12/07/2022 12:37:52: Main window initiated successfully!
+12/07/2022 12:37:54: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 0.0
+12/07/2022 12:37:56: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 0.0
+12/07/2022 12:37:57: Zaber Stand has moved -5 degrees to new position -5.0
+12/07/2022 12:37:57: Zaber Stand position initalised: Altitude = 0.0; Azimuth = -5.0
+12/07/2022 12:37:58: Zaber Stand position initalised: Altitude = 0.0; Azimuth = -5.0
+12/07/2022 12:37:59: Zaber Stand has moved -5 degrees to new position -10.0
+12/07/2022 12:37:59: Zaber Stand position initalised: Altitude = 0.0; Azimuth = -10.0
+12/07/2022 12:37:59: Zaber Stand position initalised: Altitude = 0.0; Azimuth = -10.0
+12/07/2022 12:38:00: Zaber Stand has moved 5 degrees to new position -5.0
+12/07/2022 12:38:00: Zaber Stand position initalised: Altitude = 0.0; Azimuth = -5.0
+12/07/2022 12:38:00: Zaber Stand position initalised: Altitude = 0.0; Azimuth = -5.0
+12/07/2022 12:38:01: Zaber Stand has moved 5 degrees to new position 0.0
+12/07/2022 12:38:01: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 0.0
+12/07/2022 12:38:01: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 0.0
+12/07/2022 12:38:02: Zaber Stand has moved 5 degrees to new position 5.0
+12/07/2022 12:38:02: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 5.0
+12/07/2022 12:38:02: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 5.0
+12/07/2022 12:38:03: Zaber Stand has moved 5 degrees to new position 10.0
+12/07/2022 12:38:03: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 10.0
+12/07/2022 12:38:03: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 10.0
+12/07/2022 12:38:04: Zaber Stand has moved 5 degrees to new position 15.0
+12/07/2022 12:38:04: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 15.0
+12/07/2022 12:38:05: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 15.0
+12/07/2022 12:38:06: Zaber Stand has moved -5 degrees to new position 10.0
+12/07/2022 12:38:06: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 10.0
+12/07/2022 12:38:07: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 10.0
+12/07/2022 12:38:08: Zaber Stand has moved -5 degrees to new position 5.0
+12/07/2022 12:38:08: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 5.0
+12/07/2022 12:38:09: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 5.0
+12/07/2022 12:38:10: Zaber Stand has moved -5 degrees to new position 0.0
+12/07/2022 12:38:10: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 0.0
+12/07/2022 12:38:11: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 0.0
+12/07/2022 12:38:11: Zaber Stand has moved -5 degrees to new position -5.0
+12/07/2022 12:38:11: Zaber Stand position initalised: Altitude = 0.0; Azimuth = -5.0
+12/07/2022 12:38:11: Zaber Stand position initalised: Altitude = 0.0; Azimuth = -5.0
+12/07/2022 12:38:12: Zaber Stand has moved -5 degrees to new position -10.0
+12/07/2022 12:38:12: Zaber Stand position initalised: Altitude = 0.0; Azimuth = -10.0
+12/07/2022 12:38:13: Zaber Stand position initalised: Altitude = 0.0; Azimuth = -10.0
+12/07/2022 12:38:14: Zaber Stand has moved -5 degrees to new position -15.0
+12/07/2022 12:38:14: Zaber Stand position initalised: Altitude = 0.0; Azimuth = -15.0
+12/07/2022 12:38:14: Zaber Stand position initalised: Altitude = 0.0; Azimuth = -15.0
+12/07/2022 12:38:15: Zaber Stand has moved -5 degrees to new position -20.0
+12/07/2022 12:38:15: Zaber Stand position initalised: Altitude = 0.0; Azimuth = -20.0
+12/07/2022 12:38:15: Zaber Stand position initalised: Altitude = 0.0; Azimuth = -20.0
+12/07/2022 12:38:16: Zaber Stand has moved 5 degrees to new position -15.0
+12/07/2022 12:38:16: Zaber Stand position initalised: Altitude = 0.0; Azimuth = -15.0
+12/07/2022 12:38:16: Zaber Stand position initalised: Altitude = 0.0; Azimuth = -15.0
+12/07/2022 12:38:17: Zaber Stand has moved 5 degrees to new position -10.0
+12/07/2022 12:38:17: Zaber Stand position initalised: Altitude = 0.0; Azimuth = -10.0
+12/07/2022 12:38:17: Zaber Stand position initalised: Altitude = 0.0; Azimuth = -10.0
+12/07/2022 12:38:18: Zaber Stand has moved 5 degrees to new position -5.0
+12/07/2022 12:38:18: Zaber Stand position initalised: Altitude = 0.0; Azimuth = -5.0
+12/07/2022 12:38:18: Zaber Stand position initalised: Altitude = 0.0; Azimuth = -5.0
+12/07/2022 12:38:19: Zaber Stand has moved 5 degrees to new position 0.0
+12/07/2022 12:38:19: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 0.0
+12/07/2022 12:38:19: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 0.0
+12/07/2022 12:38:20: Zaber Stand has moved 5 degrees to new position 5.0
+12/07/2022 12:38:20: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 5.0
+12/07/2022 12:38:21: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 5.0
+12/07/2022 12:38:22: Zaber Stand has moved -5 degrees to new position 0.0
+12/07/2022 12:38:22: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 0.0
+12/07/2022 12:38:22: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 0.0
+12/07/2022 12:38:23: Zaber Stand has moved 5 degrees to new position 5.0
+12/07/2022 12:38:23: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 5.0
+12/07/2022 12:38:24: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 5.0
+12/07/2022 12:38:25: Zaber Stand has moved -5 degrees to new position 0.0
+12/07/2022 12:38:25: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 0.0
+12/07/2022 12:38:25: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 0.0
+12/07/2022 12:38:26: Zaber Stand has moved 5 degrees to new position 5.0
+12/07/2022 12:38:26: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 5.0
+12/07/2022 12:40:48: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 5.0
+12/07/2022 12:40:49: Zaber Stand has moved -5 degrees to new position 0.0
+12/07/2022 12:40:49: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 0.0
+12/07/2022 12:40:51: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 0.0
+12/07/2022 12:40:51: Zaber Stand has moved -5 degrees to new position -5.0
+12/07/2022 12:40:51: Zaber Stand position initalised: Altitude = 0.0; Azimuth = -5.0
+12/07/2022 12:40:56: Zaber Stand position initalised: Altitude = 0.0; Azimuth = -5.0
+12/07/2022 12:40:57: Zaber Stand has moved 5 degrees to new position 0.0
+12/07/2022 12:40:57: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 0.0
+12/07/2022 12:40:58: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 0.0
+12/07/2022 12:40:59: Zaber Stand has moved -5 degrees to new position -5.0
+12/07/2022 12:40:59: Zaber Stand position initalised: Altitude = 0.0; Azimuth = -5.0
+12/07/2022 12:43:06: Zaber Stand position initalised: Altitude = 0.0; Azimuth = -5.0
+12/07/2022 12:43:07: Zaber Stand has moved 5 degrees to new position 0.0
+12/07/2022 12:43:07: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 0.0
+12/07/2022 12:44:27: _______________________________________________
+12/07/2022 12:44:27: |                                             |
+12/07/2022 12:44:27: | ___  ___  ____ ___  _   _  ___    ____ ____ |
+12/07/2022 12:44:27: ||[_]||[_]|  || ||^||||\V/||||^||    ||   ||  |
+12/07/2022 12:44:27: |||'' ||^\\  ||  \\  || V || \\      ||   ||  |
+12/07/2022 12:44:27: |||   ||  \\_||_||_||||   ||||_||   _||_ _||_ |
+12/07/2022 12:44:27: |                                             |
+12/07/2022 12:44:27: |Author: John Archibald Page                  |
+12/07/2022 12:44:27: |Created on: 30/11/2022                       |
+12/07/2022 12:44:27: |Last updated on: 30/11/2022                  |
+12/07/2022 12:44:27: |_____________________________________________|
+12/07/2022 12:44:27: Initiating program...
+12/07/2022 12:44:27: Launch Window initiating...
+12/07/2022 12:44:27: Launch Window initiated Successfully!
+12/07/2022 12:44:34: Equipment Serial Port Configuration set:
+12/07/2022 12:44:34: component,connected,COMS
+12/07/2022 12:44:34: MainCamera,False,0
+12/07/2022 12:44:34: AzimuthAltitudeStand,True,5
+12/07/2022 12:44:34: Filter,False,0
+12/07/2022 12:44:34: Focuser,False,0
+12/07/2022 12:44:34: RGBCamera,False,0
+12/07/2022 12:44:34: Initiating Main window...
+12/07/2022 12:44:34: Main window initiated successfully!
+12/07/2022 12:44:37: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 0.0
+12/07/2022 12:44:39: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 0.0
+12/07/2022 12:44:40: Zaber Stand has moved -5 degrees to new position -5.0
+12/07/2022 12:44:40: Zaber Stand position initalised: Altitude = -5.0; Azimuth = 0.0
+12/07/2022 12:44:43: Zaber Stand position initalised: Altitude = -5.0; Azimuth = 0.0
+12/07/2022 12:44:44: Zaber Stand has moved 5 degrees to new position 0.0
+12/07/2022 12:44:44: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 0.0
+12/07/2022 12:44:47: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 0.0
+12/07/2022 12:44:48: Zaber Stand has moved 5 degrees to new position 5.0
+12/07/2022 12:44:48: Zaber Stand position initalised: Altitude = 5.0; Azimuth = 0.0
+12/07/2022 12:45:32: _______________________________________________
+12/07/2022 12:45:32: |                                             |
+12/07/2022 12:45:32: | ___  ___  ____ ___  _   _  ___    ____ ____ |
+12/07/2022 12:45:32: ||[_]||[_]|  || ||^||||\V/||||^||    ||   ||  |
+12/07/2022 12:45:32: |||'' ||^\\  ||  \\  || V || \\      ||   ||  |
+12/07/2022 12:45:32: |||   ||  \\_||_||_||||   ||||_||   _||_ _||_ |
+12/07/2022 12:45:32: |                                             |
+12/07/2022 12:45:32: |Author: John Archibald Page                  |
+12/07/2022 12:45:32: |Created on: 30/11/2022                       |
+12/07/2022 12:45:32: |Last updated on: 30/11/2022                  |
+12/07/2022 12:45:32: |_____________________________________________|
+12/07/2022 12:45:32: Initiating program...
+12/07/2022 12:45:32: Launch Window initiating...
+12/07/2022 12:45:32: Launch Window initiated Successfully!
+12/07/2022 12:45:39: Equipment Serial Port Configuration set:
+12/07/2022 12:45:39: component,connected,COMS
+12/07/2022 12:45:39: MainCamera,False,0
+12/07/2022 12:45:39: AzimuthAltitudeStand,True,5
+12/07/2022 12:45:39: Filter,False,0
+12/07/2022 12:45:39: Focuser,False,0
+12/07/2022 12:45:39: RGBCamera,False,0
+12/07/2022 12:45:39: Initiating Main window...
+12/07/2022 12:45:40: Main window initiated successfully!
+12/07/2022 12:45:42: Zaber Stand position initalised: Altitude = 5.0; Azimuth = 0.0
+12/07/2022 12:45:44: Zaber Stand position initalised: Altitude = 5.0; Azimuth = 0.0
+12/07/2022 12:45:45: Zaber Stand has moved 5 degrees to new position 5.0
+12/07/2022 12:45:45: Zaber Stand position initalised: Altitude = 5.0; Azimuth = 5.0
+12/07/2022 12:45:45: Zaber Stand position initalised: Altitude = 5.0; Azimuth = 5.0
+12/07/2022 12:45:46: Zaber Stand has moved 5 degrees to new position 10.0
+12/07/2022 12:45:46: Zaber Stand position initalised: Altitude = 5.0; Azimuth = 10.0
+12/07/2022 12:45:46: Zaber Stand position initalised: Altitude = 5.0; Azimuth = 10.0
+12/07/2022 12:45:47: Zaber Stand has moved 5 degrees to new position 15.0
+12/07/2022 12:45:47: Zaber Stand position initalised: Altitude = 5.0; Azimuth = 15.0
+12/07/2022 12:45:47: Zaber Stand position initalised: Altitude = 5.0; Azimuth = 15.0
+12/07/2022 12:45:48: Zaber Stand has moved -5 degrees to new position 10.0
+12/07/2022 12:45:48: Zaber Stand position initalised: Altitude = 5.0; Azimuth = 10.0
+12/07/2022 12:45:48: Zaber Stand position initalised: Altitude = 5.0; Azimuth = 10.0
+12/07/2022 12:45:49: Zaber Stand has moved -5 degrees to new position 5.0
+12/07/2022 12:45:49: Zaber Stand position initalised: Altitude = 5.0; Azimuth = 5.0
+12/07/2022 12:45:49: Zaber Stand position initalised: Altitude = 5.0; Azimuth = 5.0
+12/07/2022 12:45:50: Zaber Stand has moved -5 degrees to new position 0.0
+12/07/2022 12:45:50: Zaber Stand position initalised: Altitude = 5.0; Azimuth = 0.0
+12/07/2022 12:45:50: Zaber Stand position initalised: Altitude = 5.0; Azimuth = 0.0
+12/07/2022 12:45:51: Zaber Stand has moved 5 degrees to new position 10.0
+12/07/2022 12:45:51: Zaber Stand position initalised: Altitude = 10.0; Azimuth = 0.0
+12/07/2022 12:45:53: Zaber Stand position initalised: Altitude = 10.0; Azimuth = 0.0
+12/07/2022 12:45:54: Zaber Stand has moved -5 degrees to new position 5.0
+12/07/2022 12:45:54: Zaber Stand position initalised: Altitude = 5.0; Azimuth = 0.0
+12/07/2022 12:45:54: Zaber Stand position initalised: Altitude = 5.0; Azimuth = 0.0
+12/07/2022 12:45:55: Zaber Stand has moved -5 degrees to new position 0.0
+12/07/2022 12:45:55: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 0.0
+12/07/2022 12:45:55: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 0.0
+12/07/2022 12:45:56: Zaber Stand has moved -5 degrees to new position -5.0
+12/07/2022 12:45:56: Zaber Stand position initalised: Altitude = -5.0; Azimuth = 0.0
+12/07/2022 12:45:56: Zaber Stand position initalised: Altitude = -5.0; Azimuth = 0.0
+12/07/2022 12:45:57: Zaber Stand has moved 5 degrees to new position 0.0
+12/07/2022 12:45:57: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 0.0
+12/07/2022 12:45:57: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 0.0
+12/07/2022 12:45:58: Zaber Stand has moved 5 degrees to new position 5.0
+12/07/2022 12:45:58: Zaber Stand position initalised: Altitude = 5.0; Azimuth = 0.0
+12/07/2022 12:45:58: Zaber Stand position initalised: Altitude = 5.0; Azimuth = 0.0
+12/07/2022 12:45:59: Zaber Stand has moved 5 degrees to new position 5.0
+12/07/2022 12:45:59: Zaber Stand position initalised: Altitude = 5.0; Azimuth = 5.0
+12/07/2022 12:45:59: Zaber Stand position initalised: Altitude = 5.0; Azimuth = 5.0
+12/07/2022 12:46:00: Zaber Stand has moved -5 degrees to new position 0.0
+12/07/2022 12:46:00: Zaber Stand position initalised: Altitude = 5.0; Azimuth = 0.0
+12/07/2022 12:46:00: Zaber Stand position initalised: Altitude = 5.0; Azimuth = 0.0
+12/07/2022 12:46:01: Zaber Stand has moved -5 degrees to new position -5.0
+12/07/2022 12:46:01: Zaber Stand position initalised: Altitude = 5.0; Azimuth = -5.0
+12/07/2022 12:46:02: Zaber Stand position initalised: Altitude = 5.0; Azimuth = -5.0
+12/07/2022 12:46:02: Zaber Stand has moved 5 degrees to new position 0.0
+12/07/2022 12:46:02: Zaber Stand position initalised: Altitude = 5.0; Azimuth = 0.0
+12/07/2022 12:46:03: Zaber Stand position initalised: Altitude = 5.0; Azimuth = 0.0
+12/07/2022 12:46:03: Zaber Stand has moved 5 degrees to new position 5.0
+12/07/2022 12:46:03: Zaber Stand position initalised: Altitude = 5.0; Azimuth = 5.0
+12/07/2022 12:46:09: Zaber Stand position initalised: Altitude = 5.0; Azimuth = 5.0
+12/07/2022 12:46:09: Zaber Stand position initalised: Altitude = 5.0; Azimuth = 5.0
+12/07/2022 12:46:10: Zaber Stand has moved -5.0 degrees to new position 0.0
+12/07/2022 12:46:10: Zaber Stand position initalised: Altitude = 5.0; Azimuth = 0.0
+12/07/2022 12:46:11: Zaber Stand has moved -5.0 degrees to new position 0.0
+12/07/2022 12:46:11: Zaber stand has been returned to 0,0!
+12/07/2022 12:46:11: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 0.0
+12/07/2022 12:46:16: Zaber Stand has moved to absolute position 1.0 in azi direction
+12/07/2022 12:46:16: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 1.0
+12/07/2022 12:46:20: Zaber Stand has moved to absolute position -1.0 in azi direction
+12/07/2022 12:46:20: Zaber Stand position initalised: Altitude = 0.0; Azimuth = -1.0
+12/07/2022 12:46:24: Zaber Stand has moved to absolute position -1.0 in azi direction
+12/07/2022 12:46:24: Zaber Stand position initalised: Altitude = 0.0; Azimuth = -1.0
+12/07/2022 12:46:28: Zaber Stand has moved to absolute position -1.0 in azi direction
+12/07/2022 12:46:28: Zaber Stand position initalised: Altitude = 0.0; Azimuth = -1.0
+12/07/2022 12:50:29: _______________________________________________
+12/07/2022 12:50:29: |                                             |
+12/07/2022 12:50:29: | ___  ___  ____ ___  _   _  ___    ____ ____ |
+12/07/2022 12:50:29: ||[_]||[_]|  || ||^||||\V/||||^||    ||   ||  |
+12/07/2022 12:50:29: |||'' ||^\\  ||  \\  || V || \\      ||   ||  |
+12/07/2022 12:50:29: |||   ||  \\_||_||_||||   ||||_||   _||_ _||_ |
+12/07/2022 12:50:29: |                                             |
+12/07/2022 12:50:29: |Author: John Archibald Page                  |
+12/07/2022 12:50:29: |Created on: 30/11/2022                       |
+12/07/2022 12:50:29: |Last updated on: 30/11/2022                  |
+12/07/2022 12:50:29: |_____________________________________________|
+12/07/2022 12:50:29: Initiating program...
+12/07/2022 12:50:29: Launch Window initiating...
+12/07/2022 12:50:29: Launch Window initiated Successfully!
+12/07/2022 12:50:37: Equipment Serial Port Configuration set:
+12/07/2022 12:50:37: component,connected,COMS
+12/07/2022 12:50:37: MainCamera,False,0
+12/07/2022 12:50:37: AzimuthAltitudeStand,True,5
+12/07/2022 12:50:37: Filter,False,0
+12/07/2022 12:50:37: Focuser,False,0
+12/07/2022 12:50:37: RGBCamera,False,0
+12/07/2022 12:50:37: Initiating Main window...
+12/07/2022 12:50:37: Main window initiated successfully!
+12/07/2022 12:50:40: Zaber Stand position initalised: Altitude = 0.0; Azimuth = -1.0
+12/07/2022 12:50:42: Zaber Stand position initalised: Altitude = 0.0; Azimuth = -1.0
+12/07/2022 12:50:42: Zaber Stand position initalised: Altitude = 0.0; Azimuth = -1.0
+12/07/2022 12:50:43: Zaber Stand has moved -0.0 degrees to new position -1.0
+12/07/2022 12:50:43: Zaber Stand position initalised: Altitude = 0.0; Azimuth = -1.0
+12/07/2022 12:50:43: Zaber Stand has moved 1.0 degrees to new position 1.0
+12/07/2022 12:50:43: Zaber stand has been returned to 0,0!
+12/07/2022 12:50:43: Zaber Stand position initalised: Altitude = 1.0; Azimuth = -1.0
+12/07/2022 12:50:56: Zaber Stand has moved to absolute position 5.0 in azi direction
+12/07/2022 12:50:56: Zaber Stand position initalised: Altitude = 1.0; Azimuth = 5.0
+12/07/2022 12:51:02: Zaber Stand has moved to absolute position 6.0 in azi direction
+12/07/2022 12:51:02: Zaber Stand position initalised: Altitude = 1.0; Azimuth = 6.0
+12/07/2022 12:51:06: Zaber Stand has moved to absolute position 8.0 in azi direction
+12/07/2022 12:51:06: Zaber Stand position initalised: Altitude = 1.0; Azimuth = 8.0
+12/07/2022 12:51:13: Zaber Stand has moved to absolute position 3.0 in alt direction
+12/07/2022 12:51:13: Zaber Stand position initalised: Altitude = 3.0; Azimuth = 8.0
+12/07/2022 12:51:18: Zaber Stand has moved to absolute position -3.0 in alt direction
+12/07/2022 12:51:18: Zaber Stand position initalised: Altitude = -3.0; Azimuth = 8.0
+12/07/2022 12:51:21: Zaber Stand has moved to absolute position 8.0 in alt direction
+12/07/2022 12:51:21: Zaber Stand position initalised: Altitude = 8.0; Azimuth = 8.0
+12/07/2022 12:51:24: Zaber Stand position initalised: Altitude = 8.0; Azimuth = 8.0
+12/07/2022 12:51:25: Zaber Stand position initalised: Altitude = 8.0; Azimuth = 8.0
+12/07/2022 12:51:26: Zaber Stand has moved -8.0 degrees to new position 0.0
+12/07/2022 12:51:26: Zaber Stand position initalised: Altitude = 8.0; Azimuth = 0.0
+12/07/2022 12:51:27: Zaber Stand has moved -8.0 degrees to new position 0.0
+12/07/2022 12:51:27: Zaber stand has been returned to 0,0!
+12/07/2022 12:51:27: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 0.0
+12/07/2022 12:53:21: _______________________________________________
+12/07/2022 12:53:21: |                                             |
+12/07/2022 12:53:21: | ___  ___  ____ ___  _   _  ___    ____ ____ |
+12/07/2022 12:53:21: ||[_]||[_]|  || ||^||||\V/||||^||    ||   ||  |
+12/07/2022 12:53:21: |||'' ||^\\  ||  \\  || V || \\      ||   ||  |
+12/07/2022 12:53:21: |||   ||  \\_||_||_||||   ||||_||   _||_ _||_ |
+12/07/2022 12:53:21: |                                             |
+12/07/2022 12:53:21: |Author: John Archibald Page                  |
+12/07/2022 12:53:21: |Created on: 30/11/2022                       |
+12/07/2022 12:53:21: |Last updated on: 30/11/2022                  |
+12/07/2022 12:53:21: |_____________________________________________|
+12/07/2022 12:53:21: Initiating program...
+12/07/2022 12:53:21: Launch Window initiating...
+12/07/2022 12:53:21: Launch Window initiated Successfully!
+12/07/2022 12:53:27: Equipment Serial Port Configuration set:
+12/07/2022 12:53:27: component,connected,COMS
+12/07/2022 12:53:27: MainCamera,False,0
+12/07/2022 12:53:27: AzimuthAltitudeStand,True,5
+12/07/2022 12:53:27: Filter,False,0
+12/07/2022 12:53:27: Focuser,False,0
+12/07/2022 12:53:27: RGBCamera,False,0
+12/07/2022 12:53:27: Initiating Main window...
+12/07/2022 12:53:28: Main window initiated successfully!
+12/07/2022 12:53:31: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 0.0
+12/07/2022 12:53:32: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 0.0
+12/07/2022 12:53:32: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 0.0
+12/07/2022 12:53:33: Zaber Stand has moved -0.0 degrees to new position 0.0
+12/07/2022 12:53:33: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 0.0
+12/07/2022 12:53:33: Zaber Stand has moved -0.0 degrees to new position 0.0
+12/07/2022 12:53:33: Zaber stand has been returned to 0,0!
+12/07/2022 12:53:33: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 0.0
+12/07/2022 12:53:41: Zaber Stand has moved to absolute position 10.0 in azi direction
+12/07/2022 12:53:41: Zaber Stand position initalised: Altitude = 10.0; Azimuth = 0.0
+12/07/2022 12:53:49: Zaber Stand has moved to absolute position -10.0 in azi direction
+12/07/2022 12:53:49: Zaber Stand position initalised: Altitude = -10.0; Azimuth = 0.0
+12/07/2022 12:53:53: Zaber Stand has moved to absolute position 0.0 in azi direction
+12/07/2022 12:53:53: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 0.0
+12/07/2022 12:53:58: Zaber Stand has moved to absolute position 10.0 in alt direction
+12/07/2022 12:53:58: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 10.0
+12/07/2022 12:54:04: Zaber Stand has moved to absolute position -10.0 in alt direction
+12/07/2022 12:54:04: Zaber Stand position initalised: Altitude = 0.0; Azimuth = -10.0
+12/07/2022 12:54:15: Zaber Stand has moved to absolute position -60.0 in alt direction
+12/07/2022 12:54:15: Zaber Stand position initalised: Altitude = 0.0; Azimuth = -60.0
+12/07/2022 12:54:28: Zaber Stand has moved to absolute position 20.0 in azi direction
+12/07/2022 12:54:28: Zaber Stand position initalised: Altitude = 20.0; Azimuth = -60.0
+12/07/2022 12:54:31: Zaber Stand position initalised: Altitude = 20.0; Azimuth = -60.0
+12/07/2022 12:54:31: Zaber Stand position initalised: Altitude = 20.0; Azimuth = -60.0
+12/07/2022 12:54:33: Zaber Stand has moved -20.0 degrees to new position -80.0
+12/07/2022 12:54:33: Zaber Stand position initalised: Altitude = 20.0; Azimuth = -80.0
+12/07/2022 12:54:40: Zaber Stand has moved 60.0 degrees to new position 80.0
+12/07/2022 12:54:40: Zaber stand has been returned to 0,0!
+12/07/2022 12:54:40: Zaber Stand position initalised: Altitude = 80.0; Azimuth = -80.0
+12/07/2022 12:54:45: Zaber Stand position initalised: Altitude = 80.0; Azimuth = -80.0
+12/07/2022 12:54:45: Zaber Stand position initalised: Altitude = 80.0; Azimuth = -80.0
+12/07/2022 12:54:55: Zaber Stand has moved -80.0 degrees to new position -160.0
+12/07/2022 12:54:55: Zaber Stand position initalised: Altitude = 80.0; Azimuth = -160.0
+12/07/2022 12:55:04: Zaber Stand has moved 80.0 degrees to new position 160.0
+12/07/2022 12:55:04: Zaber stand has been returned to 0,0!
+12/07/2022 12:55:04: Zaber Stand position initalised: Altitude = 160.0; Azimuth = -160.0
+12/07/2022 12:57:06: Zaber Stand position initalised: Altitude = -1.42953125; Azimuth = 17.75828125
+12/07/2022 12:57:06: Zaber Stand position initalised: Altitude = -1.42953125; Azimuth = 17.75828125
+12/07/2022 12:57:07: Zaber Stand has moved 1.42953125 degrees to new position 19.1878125
+12/07/2022 12:57:07: Zaber Stand position initalised: Altitude = -1.42953125; Azimuth = 19.1878125
+12/07/2022 12:57:09: Zaber Stand has moved -17.75828125 degrees to new position -19.1878125
+12/07/2022 12:57:09: Zaber stand has been returned to 0,0!
+12/07/2022 12:57:09: Zaber Stand position initalised: Altitude = -19.1878125; Azimuth = 19.1878125
+12/07/2022 12:59:45: _______________________________________________
+12/07/2022 12:59:45: |                                             |
+12/07/2022 12:59:45: | ___  ___  ____ ___  _   _  ___    ____ ____ |
+12/07/2022 12:59:45: ||[_]||[_]|  || ||^||||\V/||||^||    ||   ||  |
+12/07/2022 12:59:45: |||'' ||^\\  ||  \\  || V || \\      ||   ||  |
+12/07/2022 12:59:45: |||   ||  \\_||_||_||||   ||||_||   _||_ _||_ |
+12/07/2022 12:59:45: |                                             |
+12/07/2022 12:59:45: |Author: John Archibald Page                  |
+12/07/2022 12:59:45: |Created on: 30/11/2022                       |
+12/07/2022 12:59:45: |Last updated on: 30/11/2022                  |
+12/07/2022 12:59:45: |_____________________________________________|
+12/07/2022 12:59:45: Initiating program...
+12/07/2022 12:59:45: Launch Window initiating...
+12/07/2022 12:59:45: Launch Window initiated Successfully!
+12/07/2022 12:59:53: Equipment Serial Port Configuration set:
+12/07/2022 12:59:53: component,connected,COMS
+12/07/2022 12:59:53: MainCamera,False,0
+12/07/2022 12:59:53: AzimuthAltitudeStand,True,5
+12/07/2022 12:59:53: Filter,False,0
+12/07/2022 12:59:53: Focuser,False,0
+12/07/2022 12:59:53: RGBCamera,False,0
+12/07/2022 12:59:53: Initiating Main window...
+12/07/2022 12:59:54: Main window initiated successfully!
+12/07/2022 12:59:56: Zaber Stand position initalised: Altitude = 19.1878125; Azimuth = -19.1878125
+12/07/2022 12:59:59: Zaber Stand position initalised: Altitude = 19.1878125; Azimuth = -19.1878125
+12/07/2022 13:00:00: Zaber Stand has moved 5 degrees to new position 24.1878125
+12/07/2022 13:00:00: Zaber Stand position initalised: Altitude = 24.1878125; Azimuth = -19.1878125
+12/07/2022 13:00:02: Zaber Stand position initalised: Altitude = 24.1878125; Azimuth = -19.1878125
+12/07/2022 13:00:02: Zaber Stand position initalised: Altitude = 24.1878125; Azimuth = -19.1878125
+12/07/2022 13:00:05: Zaber Stand has moved -24.1878125 degrees to new position 0.0
+12/07/2022 13:00:05: Zaber Stand position initalised: Altitude = 0.0; Azimuth = -19.1878125
+12/07/2022 13:00:08: Zaber Stand has moved 19.1878125 degrees to new position 0.0
+12/07/2022 13:00:08: Zaber stand has been returned to 0,0!
+12/07/2022 13:00:08: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 0.0
+12/07/2022 13:00:17: Zaber Stand has moved to absolute position 20.0 in azi direction
+12/07/2022 13:00:17: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 20.0
+12/07/2022 13:00:30: Zaber Stand has moved to absolute position 30.0 in alt direction
+12/07/2022 13:00:30: Zaber Stand position initalised: Altitude = 30.0; Azimuth = 20.0
+12/07/2022 13:00:36: Zaber Stand position initalised: Altitude = 30.0; Azimuth = 20.0
+12/07/2022 13:00:36: Zaber Stand position initalised: Altitude = 30.0; Azimuth = 20.0
+12/07/2022 13:00:40: Zaber Stand has moved -30.0 degrees to new position 0.0
+12/07/2022 13:00:40: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 20.0
+12/07/2022 13:00:43: Zaber Stand has moved -20.0 degrees to new position 0.0
+12/07/2022 13:00:43: Zaber stand has been returned to 0,0!
+12/07/2022 13:00:43: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 0.0
+12/07/2022 13:00:44: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 0.0
+12/07/2022 13:00:45: Zaber Stand has moved 5 degrees to new position 5.0
+12/07/2022 13:00:45: Zaber Stand position initalised: Altitude = 5.0; Azimuth = 0.0
+12/07/2022 13:00:46: Zaber Stand position initalised: Altitude = 5.0; Azimuth = 0.0
+12/07/2022 13:00:47: Zaber Stand has moved -5 degrees to new position 0.0
+12/07/2022 13:00:47: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 0.0
+12/07/2022 13:00:49: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 0.0
+12/07/2022 13:00:51: Zaber Stand has moved 10.0 degrees to new position 10.0
+12/07/2022 13:00:51: Zaber Stand position initalised: Altitude = 10.0; Azimuth = 0.0
+12/07/2022 13:00:51: Zaber Stand position initalised: Altitude = 10.0; Azimuth = 0.0
+12/07/2022 13:00:52: Zaber Stand has moved -10.0 degrees to new position 0.0
+12/07/2022 13:00:52: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 0.0
+12/07/2022 13:00:55: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 0.0
+12/07/2022 13:00:57: Zaber Stand has moved -10.0 degrees to new position -10.0
+12/07/2022 13:00:57: Zaber Stand position initalised: Altitude = 0.0; Azimuth = -10.0
+12/07/2022 13:00:58: Zaber Stand position initalised: Altitude = 0.0; Azimuth = -10.0
+12/07/2022 13:00:59: Zaber Stand has moved 10.0 degrees to new position 0.0
+12/07/2022 13:00:59: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 0.0
+12/07/2022 13:01:24: _______________________________________________
+12/07/2022 13:01:24: |                                             |
+12/07/2022 13:01:24: | ___  ___  ____ ___  _   _  ___    ____ ____ |
+12/07/2022 13:01:24: ||[_]||[_]|  || ||^||||\V/||||^||    ||   ||  |
+12/07/2022 13:01:24: |||'' ||^\\  ||  \\  || V || \\      ||   ||  |
+12/07/2022 13:01:24: |||   ||  \\_||_||_||||   ||||_||   _||_ _||_ |
+12/07/2022 13:01:24: |                                             |
+12/07/2022 13:01:24: |Author: John Archibald Page                  |
+12/07/2022 13:01:24: |Created on: 30/11/2022                       |
+12/07/2022 13:01:24: |Last updated on: 30/11/2022                  |
+12/07/2022 13:01:24: |_____________________________________________|
+12/07/2022 13:01:24: Initiating program...
+12/07/2022 13:01:24: Launch Window initiating...
+12/07/2022 13:01:24: Launch Window initiated Successfully!
+12/07/2022 13:01:32: Equipment Serial Port Configuration set:
+12/07/2022 13:01:32: component,connected,COMS
+12/07/2022 13:01:32: MainCamera,False,0
+12/07/2022 13:01:32: AzimuthAltitudeStand,True,5
+12/07/2022 13:01:32: Filter,False,0
+12/07/2022 13:01:32: Focuser,False,0
+12/07/2022 13:01:32: RGBCamera,False,0
+12/07/2022 13:01:32: Initiating Main window...
+12/07/2022 13:01:33: Main window initiated successfully!
+12/07/2022 13:01:35: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 0.0
+12/07/2022 13:01:42: Zaber Stand has moved to absolute position 10.0 in azi direction
+12/07/2022 13:01:42: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 10.0
+12/07/2022 13:01:48: Zaber Stand has moved to absolute position 20.0 in alt direction
+12/07/2022 13:01:48: Zaber Stand position initalised: Altitude = 20.0; Azimuth = 10.0
+12/07/2022 13:01:49: Zaber Stand position initalised: Altitude = 20.0; Azimuth = 10.0
+12/07/2022 13:01:49: Zaber Stand position initalised: Altitude = 20.0; Azimuth = 10.0
+12/07/2022 13:01:52: Zaber Stand has moved -20.0 degrees to new position 0.0
+12/07/2022 13:01:52: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 10.0
+12/07/2022 13:01:53: Zaber Stand has moved -10.0 degrees to new position 0.0
+12/07/2022 13:01:53: Zaber stand has been returned to 0,0!
+12/07/2022 13:01:53: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 0.0
+12/07/2022 13:01:54: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 0.0
+12/07/2022 13:01:55: Zaber Stand has moved 5 degrees to new position 5.0
+12/07/2022 13:01:55: Zaber Stand position initalised: Altitude = 5.0; Azimuth = 0.0
+12/07/2022 13:01:58: Zaber Stand position initalised: Altitude = 5.0; Azimuth = 0.0
+12/07/2022 13:01:59: Zaber Stand has moved 5 degrees to new position 10.0
+12/07/2022 13:01:59: Zaber Stand position initalised: Altitude = 10.0; Azimuth = 0.0
+12/07/2022 13:02:00: Zaber Stand position initalised: Altitude = 10.0; Azimuth = 0.0
+12/07/2022 13:02:00: Zaber Stand has moved -5 degrees to new position 5.0
+12/07/2022 13:02:01: Zaber Stand position initalised: Altitude = 5.0; Azimuth = 0.0
+12/07/2022 13:02:01: Zaber Stand position initalised: Altitude = 5.0; Azimuth = 0.0
+12/07/2022 13:02:02: Zaber Stand has moved -5 degrees to new position 0.0
+12/07/2022 13:02:02: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 0.0
+12/07/2022 13:13:44: _______________________________________________
+12/07/2022 13:13:44: |                                             |
+12/07/2022 13:13:44: | ___  ___  ____ ___  _   _  ___    ____ ____ |
+12/07/2022 13:13:44: ||[_]||[_]|  || ||^||||\V/||||^||    ||   ||  |
+12/07/2022 13:13:44: |||'' ||^\\  ||  \\  || V || \\      ||   ||  |
+12/07/2022 13:13:44: |||   ||  \\_||_||_||||   ||||_||   _||_ _||_ |
+12/07/2022 13:13:44: |                                             |
+12/07/2022 13:13:44: |Author: John Archibald Page                  |
+12/07/2022 13:13:44: |Created on: 30/11/2022                       |
+12/07/2022 13:13:44: |Last updated on: 30/11/2022                  |
+12/07/2022 13:13:44: |_____________________________________________|
+12/07/2022 13:13:44: Initiating program...
+12/07/2022 13:13:44: Launch Window initiating...
+12/07/2022 13:13:44: Launch Window initiated Successfully!
+12/07/2022 13:13:51: Equipment Serial Port Configuration set:
+12/07/2022 13:13:51: component,connected,COMS
+12/07/2022 13:13:51: MainCamera,False,0
+12/07/2022 13:13:51: AzimuthAltitudeStand,True,5
+12/07/2022 13:13:51: Filter,False,0
+12/07/2022 13:13:51: Focuser,False,0
+12/07/2022 13:13:51: RGBCamera,False,0
+12/07/2022 13:13:51: Initiating Main window...
+12/07/2022 13:13:52: Main window initiated successfully!
+12/07/2022 13:13:54: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 0.0
+12/07/2022 13:13:56: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 0.0
+12/07/2022 13:13:57: Zaber Stand has moved 5 degrees to new position 5.0
+12/07/2022 13:13:57: Zaber Stand position initalised: Altitude = 5.0; Azimuth = 0.0
+12/07/2022 13:14:00: Zaber Stand position initalised: Altitude = 5.0; Azimuth = 0.0
+12/07/2022 13:14:00: Zaber Stand position initalised: Altitude = 5.0; Azimuth = 0.0
+12/07/2022 13:14:01: Zaber Stand has moved -5.0 degrees to new position 0.0
+12/07/2022 13:14:01: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 0.0
+12/07/2022 13:14:01: Zaber Stand has moved -0.0 degrees to new position 0.0
+12/07/2022 13:14:01: Zaber stand has been returned to 0,0!
+12/07/2022 13:14:01: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 0.0
+12/07/2022 13:33:19: _______________________________________________
+12/07/2022 13:33:19: |                                             |
+12/07/2022 13:33:19: | ___  ___  ____ ___  _   _  ___    ____ ____ |
+12/07/2022 13:33:19: ||[_]||[_]|  || ||^||||\V/||||^||    ||   ||  |
+12/07/2022 13:33:19: |||'' ||^\\  ||  \\  || V || \\      ||   ||  |
+12/07/2022 13:33:19: |||   ||  \\_||_||_||||   ||||_||   _||_ _||_ |
+12/07/2022 13:33:19: |                                             |
+12/07/2022 13:33:19: |Author: John Archibald Page                  |
+12/07/2022 13:33:19: |Created on: 30/11/2022                       |
+12/07/2022 13:33:19: |Last updated on: 30/11/2022                  |
+12/07/2022 13:33:19: |_____________________________________________|
+12/07/2022 13:33:19: Initiating program...
+12/07/2022 13:33:19: Launch Window initiating...
+12/07/2022 13:33:19: Launch Window initiated Successfully!
+12/07/2022 14:46:11: _______________________________________________
+12/07/2022 14:46:11: |                                             |
+12/07/2022 14:46:11: | ___  ___  ____ ___  _   _  ___    ____ ____ |
+12/07/2022 14:46:11: ||[_]||[_]|  || ||^||||\V/||||^||    ||   ||  |
+12/07/2022 14:46:11: |||'' ||^\\  ||  \\  || V || \\      ||   ||  |
+12/07/2022 14:46:11: |||   ||  \\_||_||_||||   ||||_||   _||_ _||_ |
+12/07/2022 14:46:11: |                                             |
+12/07/2022 14:46:11: |Author: John Archibald Page                  |
+12/07/2022 14:46:11: |Created on: 30/11/2022                       |
+12/07/2022 14:46:11: |Last updated on: 30/11/2022                  |
+12/07/2022 14:46:11: |_____________________________________________|
+12/07/2022 14:46:11: Initiating program...
+12/07/2022 14:46:11: Launch Window initiating...
+12/07/2022 14:46:12: Launch Window initiated Successfully!
+12/07/2022 14:47:30: Equipment Serial Port Configuration set:
+12/07/2022 14:47:30: component,connected,COMS
+12/07/2022 14:47:30: MainCamera,False,0
+12/07/2022 14:47:30: AzimuthAltitudeStand,True,5
+12/07/2022 14:47:30: Filter,False,0
+12/07/2022 14:47:30: Focuser,False,0
+12/07/2022 14:47:30: RGBCamera,False,0
+12/07/2022 14:47:30: Initiating Main window...
+12/07/2022 14:47:30: Main window initiated successfully!
+12/07/2022 14:47:35: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 0.0
+12/07/2022 14:47:42: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 0.0
+12/07/2022 14:47:42: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 0.0
+12/07/2022 14:47:42: Zaber Stand has moved -0.0 degrees to new position 0.0
+12/07/2022 14:47:42: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 0.0
+12/07/2022 14:47:42: Zaber Stand has moved -0.0 degrees to new position 0.0
+12/07/2022 14:47:42: Zaber stand has been returned to 0,0!
+12/07/2022 14:47:42: Zaber Stand position initalised: Altitude = 0.0; Azimuth = 0.0
+12/07/2022 14:48:06: _______________________________________________
+12/07/2022 14:48:06: |                                             |
+12/07/2022 14:48:06: | ___  ___  ____ ___  _   _  ___    ____ ____ |
+12/07/2022 14:48:06: ||[_]||[_]|  || ||^||||\V/||||^||    ||   ||  |
+12/07/2022 14:48:06: |||'' ||^\\  ||  \\  || V || \\      ||   ||  |
+12/07/2022 14:48:06: |||   ||  \\_||_||_||||   ||||_||   _||_ _||_ |
+12/07/2022 14:48:06: |                                             |
+12/07/2022 14:48:06: |Author: John Archibald Page                  |
+12/07/2022 14:48:06: |Created on: 30/11/2022                       |
+12/07/2022 14:48:06: |Last updated on: 30/11/2022                  |
+12/07/2022 14:48:06: |_____________________________________________|
+12/07/2022 14:48:06: Initiating program...
+12/07/2022 14:48:06: Launch Window initiating...
+12/07/2022 14:48:06: Launch Window initiated Successfully!
+12/07/2022 14:49:03: _______________________________________________
+12/07/2022 14:49:03: |                                             |
+12/07/2022 14:49:03: | ___  ___  ____ ___  _   _  ___    ____ ____ |
+12/07/2022 14:49:03: ||[_]||[_]|  || ||^||||\V/||||^||    ||   ||  |
+12/07/2022 14:49:03: |||'' ||^\\  ||  \\  || V || \\      ||   ||  |
+12/07/2022 14:49:03: |||   ||  \\_||_||_||||   ||||_||   _||_ _||_ |
+12/07/2022 14:49:03: |                                             |
+12/07/2022 14:49:03: |Author: John Archibald Page                  |
+12/07/2022 14:49:03: |Created on: 30/11/2022                       |
+12/07/2022 14:49:03: |Last updated on: 30/11/2022                  |
+12/07/2022 14:49:03: |_____________________________________________|
+12/07/2022 14:49:03: Initiating program...
+12/07/2022 14:49:03: Launch Window initiating...
+12/07/2022 14:49:03: Launch Window initiated Successfully!
