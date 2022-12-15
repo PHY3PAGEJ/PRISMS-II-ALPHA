@@ -26,15 +26,15 @@ logo = [" ___  ___  ____ ___  _   _  ___    ____ ____",
         
 author = "John Archibald Page"
 creationdate = "30/11/2022"
-updatedate =  "30/11/2022"
+updatedate =  "13/12/2022"
 purpose = """To operate the PRISMS II system using an intuative user interface."""
 #initialise file name and path
 logpath = "OutputFiles/Logs/"
-logFile = "PRISMSII"+str(datetime.datetime.now().date())+".log"
+logFile = "PRISMSII{}.log".format(datetime.datetime.now().date())
 #----------------------------------------------------------------
 #initalise log file
 logfp = logpath + logFile
-log.basicConfig(filename = logfp,level = log.NOTSET,filemode = 'a',format = '%(asctime)s: %(message)s',datefmt = '%m/%d/%Y %I:%M:%S' )
+log.basicConfig(filename = logfp,level = log.NOTSET,filemode = 'a',format = '%(asctime)s: %(message)s',datefmt = '%m/%d/%Y %H:%M:%S' )
 
 #welcome message formatting
 logo = logo

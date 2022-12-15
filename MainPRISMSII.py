@@ -2,7 +2,7 @@
 NAME: MainPRISMSII.py
 AUTHOR: John Archibald Page
 DATE CREATED: 10/10/2022 
-DATE LAST UPDATED: 30/11/2022
+DATE LAST UPDATED: 13/12/2022
 
 PURPOSE:
 To run the main window for PRISMS II
@@ -19,18 +19,11 @@ try:
     #standard libraries and modules
     from PyQt5 import QtWidgets
     import logging as log
-    #add in module paths
-    import os, sys
-    sys.path.append(os.path.join(os.path.dirname(__file__), "GUI"))
-    sys.path.append(os.path.join(os.path.dirname(__file__), "GUI/SelfDefinedWidgets"))
-    sys.path.append(os.path.join(os.path.dirname(__file__), "GUI/AdditionalWindows"))
-    sys.path.append(os.path.join(os.path.dirname(__file__), "GUI/LaunchWindow"))
-    sys.path.append(os.path.join(os.path.dirname(__file__), "GUI/MainWindow"))
+    import sys
     #self made modules
-    from GUI.MainWindow.PRISMSIIGUI import PRISMSIIGUI_class
-    from GUI.LaunchWindow.LaunchConnect import LaunchConnect_class
+    from LaunchWindow.LaunchCON import LaunchCON_class
     import InitiateLogging as il
-
+    
 except:
 
     from PyQt5.QtWidgets import QApplication , QMessageBox
@@ -38,23 +31,21 @@ except:
     msgapp = QApplication(sys.argv)
     msg = QMessageBox()
     msg.setIcon(QMessageBox.Critical)
-    msg.setText("Error during module import :)")
+    msg.setText("Error during module import!")
     msg.setInformativeText('Program will close after pressing "OK" ')
     msg.setWindowTitle("Error")
     msg.exec_()
 
-    print("Modules could not be installed correctly, halting code")
+    print("Modules could not be installed correctly, halting code...")
     halt = True  
 
 class PRISMSII():
     def __init__(self):
-        #build main window
-        self.PRISMSII = PRISMSIIGUI_class()
         #make inital launch window
-        self.lc = LaunchConnect_class(self.PRISMSII.MainWindow)
+        self.lc = LaunchCON_class()
         #show launch, will lead to main when coms confirmed
         self.lc.Launch.show()
-        
+ 
 if __name__ == "__main__":
     Application = QtWidgets.QApplication(sys.argv)
     Window = PRISMSII()
