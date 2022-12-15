@@ -26,22 +26,23 @@ When making an update to the code, remember to put a comment in the code what wa
 #01/12/2022: updated the message used in the pop up
 
 '''
+import logging as log ##troubleshooting
+log.info(__file__)  ##troubleshooting
 #PYQT modules
 from PyQt5 import QtWidgets
 import os
 import logging as log
 #self-made GUI clases
-from a_CameraGUI import CameraGUI_class
-from b_TerminalGUI import TerminalGUI_class
-from c_PositionGUI import PositionGUI_class
-from d_FilterGUI import FilterGUI_class
-from e_CameraSettingsGUI import CameraSettingsGUI_class
-from f_AOGUI import AOGUI_class
+from GUI.MainWindow.a_CameraGUI import CameraGUI_class
+from GUI.MainWindow.b_TerminalGUI import TerminalGUI_class
+from GUI.MainWindow.c_PositionGUI import PositionGUI_class
+from GUI.MainWindow.d_FilterGUI import FilterGUI_class
+from GUI.MainWindow.e_CameraSettingsGUI import CameraSettingsGUI_class
+from GUI.MainWindow.f_AOGUI import AOGUI_class
 #mainwindow
-from SelfDefinedWidgets.MainWindow import MainWindow_class
+from GUI.SelfDefinedWidgets.MainWindow import MainWindow_class
 #check what is connected
-from EquipmentEnabledCheck import EquipmentEnabledCheck_class as EEC
-
+from GUI.MainWindow.EquipmentEnabledCheck import EquipmentEnabledCheck_class as EEC
 
 class PRISMSIIGUI_class():
     """Build the GUI for PRISMSII"""
@@ -53,8 +54,8 @@ class PRISMSIIGUI_class():
         log.info("Initiating Main window...")
         self.cWidget = self.BuildLayout()
         # Frame Customisation
-        FrameShape = QtWidgets.QFrame.Box
-        FrameShadow = QtWidgets.QFrame.Raised
+        self.FrameShape = QtWidgets.QFrame.Box
+        self.FrameShadow = QtWidgets.QFrame.Raised
         self.MainWindow = MainWindow_class(0.5,0.5,"paw_icon.png")
         #set central widget and the layout to this
         self.MainWindow.setCentralWidget(self.cWidget)
@@ -69,10 +70,12 @@ class PRISMSIIGUI_class():
         self.AO = AOGUI_class()
         self.STOP = self.StopButton()
         #components that need to be enabled
-        self.Camera = CameraGUI_class() #need to unenable rgb button
+        self.Camera = CameraGUI_class() 
         self.Position = PositionGUI_class()
         self.Filter = FilterGUI_class()
-        self.CameraSettings = CameraSettingsGUI_class() # split into it's two parts
+        self.CameraSettings = CameraSettingsGUI_class() 
+        ##Check what has been connected in the config file##
+        self.EnabCheck = EEC(self.Position.MaingroupBox,self.Filter.MaingroupBox,self.Camera.MaingroupBox,self.CameraSettings.MaingroupBox)
         ##Build up the layout piecewise
         #Vertical orientation c,e : [1]
         VLayout_1 = QtWidgets.QVBoxLayout()
@@ -98,6 +101,7 @@ class PRISMSIIGUI_class():
         ##assign main layout to central widget
         cWidget = QtWidgets.QWidget()
         cWidget.setLayout(HLayout_5)
+    
         return(cWidget)
 
     def StopButton(self):
@@ -107,6 +111,4 @@ class PRISMSIIGUI_class():
         stopButton.setText("STOP")
         stopButton.setToolTip("Stops all running functions and movement")
         return(stopButton)
-
-
-      
+     

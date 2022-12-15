@@ -1,24 +1,11 @@
 '''
-NAME: a_CameraGUI.py
+NAME: EquipmentEnabledCheck.py
 AUTHOR: John Archibald Page
-DATE CREATED: 17/11/2022 
-DATE LAST UPDATED: 01/12/2022
+DATE CREATED: 01/12/2022 
+DATE LAST UPDATED: 05/12/2022
 
 PURPOSE:
-To create the buttons Camera GUI, with format shown below:
-
- __Camera_______________________
-|SAVE_IMAGE|______Label_________|
-|		                        |                   
-|                               |  
-|  DISPLAY  FRAME               |
-|                               |          
-|_______________________________|
-|__Toggles______________________|               
-| ___  ___  ___ |Dark Correction|          
-||   ||   ||   |||   ||Set Dark||
-| ROI  1:1  RGB | Show '''''''' |
-|---------------|---------------| 
+To check the connected is equal to true, if not a placeholder widget is put into place and widgets are not connected.
 UPDATE HISTORY:
 
 When making an update to the code, remember to put a comment in the code what was changed and why
@@ -26,26 +13,52 @@ When making an update to the code, remember to put a comment in the code what wa
 #01/12/2022: updated the message used in the pop up
 
 '''
-from PyQt5 import QtWidgets, QtGui, QtCore
-import pandas as pd
-from SaveReadFunction.SaveReadCSV import Read_class
+import logging as log ##troubleshooting
+log.info(__file__)  ##troubleshooting
+from PyQt5 import QtWidgets
+from Interfacing.CSV.ReadCSV import Read_class
+rc = Read_class()
 
 class EquipmentEnabledCheck_class():
     """Build the GUI for the camera settings, contating controls for Focus and Exposure"""
-    def __init__(self):
+    def __init__(self,position,filter,camera,camerasettings):
         super(EquipmentEnabledCheck_class,self).__init__()
-    
+        self.widgetstoDisable(position,filter,camera,camerasettings)
+
+    def widgetstoDisable(self,position,filter,camera,camerasettings):
+        """Assign component widgets to disable"""
+        connectedvalue = self.CheckConnected()
+        #filter: just filter groupbox
+        if connectedvalue[3]==False:
+            self.switchtoPlaceHolder(filter)
+        #position: just position groupbox
+        if connectedvalue[2]==False:
+            self.switchtoPlaceHolder(position)
+        #just Focus: Focus
+        if connectedvalue[4]==False:
+            self.switchtoPlaceHolder(camerasettings.currentWidget().findChildren(QtWidgets.QStackedWidget)[0])
+        #Just Main camera: toggles, exposure
+        if connectedvalue[1]==False and connectedvalue[5]==True:
+            self.switchtoPlaceHolder(camera.currentWidget().findChild(QtWidgets.QStackedWidget))
+            self.switchtoPlaceHolder(camerasettings.currentWidget().findChildren(QtWidgets.QStackedWidget)[1])
+        #Just RGB Camera: RGB toggle
+        if connectedvalue[1]==True and connectedvalue[5]==False:
+            self.switchtoPlaceHolder(camera.currentWidget().findChild(QtWidgets.QStackedWidget).findChild(QtWidgets.QStackedWidget))
+        #Both Cameras: Camera, Exposure
+        if connectedvalue[1]==False and connectedvalue[5]==False:
+            self.switchtoPlaceHolder(camera)
+            self.switchtoPlaceHolder(camerasettings.currentWidget().findChildren(QtWidgets.QStackedWidget)[1])
+        #focus and main camera: groupbox for camerasettings
+        if connectedvalue[1]==False and connectedvalue[4]==False:
+            self.switchtoPlaceHolder(camerasettings)
+
     def CheckConnected(self):
         """Read the COMS Config File and output whether connected or not"""
-        connectedvalue = Read_class.read_file(filename="COMS_Config.csv",savepath="InputFiles\SerialPorts")
-        
+        connectedvalue = rc.readcol(filename="InputFiles\SerialPorts\COMS_Config.csv")
+        connectedvalue = [ True if x == "True" else False for x in connectedvalue ] # convert to boolean
+        return(connectedvalue)
 
-    def PlaceHolder(self):
-        """This is a place holder for when the serial for a device is not connected"""
-        dFramewidget = QtWidgets.QLabel()
-        pixmax = QtGui.QPixmap('GUI/Images/PlaceHolder.png')
-        myScaledPixmap = pixmax.scaled(dFramewidget.size(), QtCore.Qt.KeepAspectRatio)
-        dFramewidget.setPixmap(myScaledPixmap)
-        return(dFramewidget)
-
+    def switchtoPlaceHolder(self,stackwidget):
+        """Effectively disables the widget while putting in a place holder to hsow where it was"""
+        stackwidget.setCurrentIndex(1)
    

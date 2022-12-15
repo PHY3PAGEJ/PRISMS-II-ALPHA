@@ -15,22 +15,25 @@ When making an update to the code, remember to put a comment in the code what wa
 #01/12/2022: updated the message used in the pop up
 
 '''
+import logging as log ##troubleshooting
+log.info(__file__)  ##troubleshooting
 from PyQt5 import QtCore, QtWidgets
 
 class HoldDownButton_class(QtWidgets.QPushButton):  
     """To activate a button fucntion when held for activation time."""
 
-    def __init__(self,text,purp,at,funca):
+    def __init__(self,at,funca,text=False,purp=False):
         super(HoldDownButton_class,self).__init__()
-        self.buttondefine(text,purp)
+        if text != False and purp !=False:
+            self.buttondefine(text,purp)
         self.pressed.connect(lambda: self.buttonheld(funca, at))
         self.released.connect(self.buttonreleased)
+        self.timer = QtCore.QTimer()
     
     def buttonheld(self, func1, at):
         """hold down button for at time for function to start. releasing stops loop"""
         #initiate timer
         print("Button pressed")
-        self.timer = QtCore.QTimer()  # set up your QTimer
         self.timer.timeout.connect(func1)  # connect it to your update function
         self.timer.start(at)  # set it to timeout in 5000 ms
         

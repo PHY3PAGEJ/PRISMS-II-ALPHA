@@ -13,9 +13,11 @@ When making an update to the code, remember to put a comment in the code what wa
 .i.e.
 #01/12/2022: updated the message used in the pop up
 '''
+import logging as log ##troubleshooting
+log.info(__file__)  ##troubleshooting
 from PyQt5 import QtWidgets
-from AdditionalWindows.AdvancedOptions_MosaicCreate import MosaicCreate_class
-from AdditionalWindows.AdvancedOptions_ConfigCreate import ConfigCreate_class
+from GUI.AdditionalWindows.AdvancedOptions_MosaicCreate import MosaicCreate_class
+from GUI.AdditionalWindows.AdvancedOptions_ConfigCreate import ConfigCreate_class
 
 class MCPushButton(QtWidgets.QPushButton):
     """To have a push button that runs the mosaic create window"""

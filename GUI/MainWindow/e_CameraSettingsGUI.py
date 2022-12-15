@@ -27,7 +27,11 @@ When making an update to the code, remember to put a comment in the code what wa
 #01/12/2022: updated the message used in the pop up
 
 '''
+import logging as log ##troubleshooting
+log.info(__file__)  ##troubleshooting
 from PyQt5 import QtWidgets, QtGui
+from GUI.SelfDefinedWidgets.StackedWidget import StackedWidget_class
+sw = StackedWidget_class()
 
 class CameraSettingsGUI_class():
     """Build the GUI for the camera settings, contating controls for Focus and Exposure"""
@@ -54,7 +58,8 @@ class CameraSettingsGUI_class():
         VLayout.addWidget(exposurelayout, 1)
         #set margins
         VLayout.setContentsMargins(20, 20, 20, 20)
-        return(MaingroupBox)
+        stackedgroup = sw.stackplaceholderWidget(MaingroupBox)
+        return(stackedgroup)
     
     def BuildSubLayout(self,func):
         """ Create a sublayout of the Focus and exposure interfaces:
@@ -82,7 +87,8 @@ class CameraSettingsGUI_class():
         HLayout.addWidget(rightButton, 1)
         HLayout.addLayout(VLayout, 1)
         SubgroupBox.setLayout(HLayout)
-        return(SubgroupBox)
+        stackedgroup = sw.stackplaceholderWidget(SubgroupBox)
+        return(stackedgroup)
 
     def Buttons(self,func):
         """Define the buttons for the focuser and exposure subgroups"""

@@ -32,6 +32,7 @@ PRISMS II ALPHA
 |___|___|___|d_FilterGUI.py
 |___|___|___|e_CameraSettingsGUI.py
 |___|___|___|f_AOGUI.py
+|___|___|___|EquipmentEnabledCheck.py
 ______________________________________________________________
 FOLDER FILE FUNCTIONALITY:
 PRISMSIIGUI.py
@@ -48,15 +49,18 @@ e_CameraSettingsGUI.py
 	Camera Settings grouping, containing Exposure and Focus
 f_AOGUI.py
 	Advanced Options Grouping
+EquipmentEnabledCheck.py	
+	Checks what is connected, switches buttons out for a placeholder
 ______________________________________________________________
 FOLDER FILES FLOW DIAGRAM:
 		                               
-MAINPRISMSII.py <----------------------------------|_a_CameraGUI.py									
-	↑                   			   |_b_TerminalGUI.py <--- GUI.SelfDefinedWidgets.TextEdit_Auto_verticle_Expansion.py		  						  				
-        |_____GUI.SelfDefinedWidgets.MainWindow.py |_c_PositionGUI.py
-			   			   |_d_FilterGUI.py
-			    			   |_e_CameraSettingsGUI.py
-			   			   |_f_AOGUI.py
+PRISMSGUII.py <--------------------------------      |_a_CameraGUI.py <--- GUI.SelfDefinedWidgets.StackedWidget.py									
+	↑                   			                 |_b_TerminalGUI.py <--- GUI.SelfDefinedWidgets.TextEdit_Auto_verticle_Expansion.py		  						  				
+    |_____GUI.SelfDefinedWidgets.MainWindow.py       |_c_PositionGUI.py <--- GUI.SelfDefinedWidgets.StackedWidget.py	
+			   			                             |_d_FilterGUI.py <--- GUI.SelfDefinedWidgets.StackedWidget.py	
+			    		                             |_e_CameraSettingsGUI.py <--- GUI.SelfDefinedWidgets.StackedWidget.py	
+			   			                             |_f_AOGUI.py
+													 |_EquipmentEnabledCheck.py
 ______________________________________________________________
 FOLDER FILE FUNCTIONALITY:
 --------------
@@ -184,39 +188,38 @@ FILE DEPENDANTS:
 -------------
 PRISMSIIGUI.py
 -------------
-MainPRISMSII.py
+LaunchSavefile.py
 
 --------------
 a_CameraGUI.py
 -------------- 
-GUI.MainWindow.MainPRISMSII.py
+PRISMSIIGUI.py
 
 ----------------
 b_TerminalGUI.py
 ----------------
-GUI.MainWindow.MainPRISMSII.py
+PRISMSIIGUI.py
 
 ---------------
 c_PositionGUI.py
 ----------------
 
-GUI.MainWindow.MainPRISMSII.py
+PRISMSIIGUI.py
 
 --------------
 d_FilterGUI.py
 --------------
-GUI.MainWindow.MainPRISMSII.py
-GUI.MainWindow.a_CameraGUI.py
+PRISMSIIGUI.py
 
 ----------------------
 e_CameraSettingsGUI.py
 ----------------------
-GUI.MainWindow.MainPRISMSII.py
+PRISMSIIGUI.py
 
 ----------
 f_AOGUI.py
 ----------
-GUI.MainWindow.MainPRISMSII.py
+PRISMSIIGUI.py
 
 _______________________________________________________________________________
 FILE DEPENDANCIES:
@@ -234,6 +237,7 @@ GUI.MainWindow.d_FilterGUI.py
 GUI.MainWindow.e_CameraSettingsGUI.py
 GUI.MainWindow.f_AOGUI.py
 GUI.SelfDefinedWidgets.MainWindow.py
+EquipmentEnabledCheck.py	
 
 
 --------------
@@ -242,6 +246,7 @@ a_CameraGUI.py
 from PyQt5 import QtWidgets, QtGui, QtCore
 GUI.SelfDefinedWidgets.PushButton_saveopendir.py
 from GUI.MainWindow.d_FilterGUI.py
+GUI.SelfDefinedWidgets.StackedWidget.py
 
 ----------------
 b_TerminalGUI.py
@@ -254,17 +259,20 @@ GUI.SelfDefinedWidgets.PushButton_popupMessage.py
 c_PositionGUI.py
 ----------------
 from PyQt5 import QtWidgets,QtGui
+GUI.SelfDefinedWidgets.StackedWidget.py
 
 --------------
 d_FilterGUI.py
 --------------
 from PyQt5 import QtWidgets
 GUI.SelfDefinedWidgets.PushButton_popupMessage.py
+GUI.SelfDefinedWidgets.StackedWidget.py
 
 ----------------------
 e_CameraSettingsGUI.py
 ----------------------
 from PyQt5 import QtWidgets, QtGui
+GUI.SelfDefinedWidgets.StackedWidget.py
 
 ----------
 f_AOGUI.py

@@ -22,9 +22,11 @@ When making an update to the code, remember to put a comment in the code what wa
 .i.e.
 #01/12/2022: updated the message used in the pop up
 '''
+import logging as log ##troubleshooting
+log.info(__file__)  ##troubleshooting
 from PyQt5 import QtCore, QtWidgets
-from SelfDefinedWidgets.TextEdit_AutoverticleExpansion import GrowingTextEdit
-from SelfDefinedWidgets.PushButton_popupMessage import moreinfoPushButton
+from GUI.SelfDefinedWidgets.TextEdit_AutoverticleExpansion import GrowingTextEdit
+from GUI.SelfDefinedWidgets.PushButton_popupMessage import moreinfoPushButton
 
 messagefile = "GUI/AdditionalWindows/Messages/Terminal_moreinfo.csv"
 

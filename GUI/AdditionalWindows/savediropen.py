@@ -28,14 +28,15 @@ When making an update to the code, remember to put a comment in the code what wa
 .i.e.
 #01/12/2022: updated the message used in the pop up
 '''
+import logging as log ##troubleshooting
+log.info(__file__)  ##troubleshooting
 from PyQt5 import QtWidgets, QtGui
 from PyQt5.QtWidgets import QFileDialog
-
 
 class savopendir_class(QtWidgets.QFileDialog):
     """A class to either show open a file window or save a file window in a given format, OR set directory"""
 
-    def __init__(self,savediropen,icon,filepurpose, filepath, filetype):
+    def __init__(self,savediropen,filepurpose, filepath, filetype):
         super(savopendir_class,self).__init__()
         self.setWindowIcon(QtGui.QIcon('GUI/Images/Logo.png'))
         
@@ -54,7 +55,6 @@ class savopendir_class(QtWidgets.QFileDialog):
             filetype_lim = "CSV Files (*.csv)"
         if (filetype.lower() == "i") or (filetype.lower() == "image"):
             filetype_lim = "Data Files (*.dat);;Image Files (*.TIFF)"
-
         options = QFileDialog.Options()
         fileName, _ = QFileDialog.getOpenFileName(self,"Open "+filepurpose, filepath,filetype_lim, options=options)
         ##return the filename that is chosen that can then be applied.
@@ -69,7 +69,6 @@ class savopendir_class(QtWidgets.QFileDialog):
             filetype_lim = "CSV Files (*.csv)"
         if (filetype.lower() == "i") or (filetype.lower() == "image"):
             filetype_lim = "Data Files (*.dat);;Image Files (*.TIFF)"
-
         options = QFileDialog.Options()
         fileName, _ = QFileDialog.getSaveFileName(self,"Save "+filepurpose, filepath,filetype_lim, options=options)
         if fileName:

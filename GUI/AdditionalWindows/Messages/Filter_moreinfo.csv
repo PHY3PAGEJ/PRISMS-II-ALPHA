@@ -1,5 +1,5 @@
 title, Filter: Wavelengths
-messagetitle, Wavelength of filters:
-message,1) 400 &lambda; <br> 2) 450 &lambda; <br> 3) 500 &lambda; <br> 4) 550 &lambda; <br> 5) 600 &lambda; <br> 6) 650 &lambda; <br> 7) 700 &lambda;<br> 8) 750 &lambda;<br> 9) 800 &lambda; <br> 10) 850 &lambda; <br>
+messagetitle, Wavelengths (nm); Bandwidths (nm)
+message,0) 400 ; 40 <br> 1) 450 ; 40 <br> 2) 500 ; 40 <br> 3) 550 ; 40 <br> 4) 600 ; 40 <br> 5) 650 ; 40 <br> 6) 700 ; 40<br> 7) 750 ; 40<br> 8) 800 ; 40 <br> 9) 850 ; 40 <br>
 windowicon,FALSE
 width,200

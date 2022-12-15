@@ -14,9 +14,11 @@ When making an update to the code, remember to put a comment in the code what wa
 .i.e.
 #01/12/2022: updated the message used in the pop up
 '''
+import logging as log ##troubleshooting
+log.info(__file__)  ##troubleshooting
 from PyQt5 import QtWidgets
 import pandas as pd
-from AdditionalWindows.popupMessage import popupmessage_class
+from GUI.AdditionalWindows.popupMessage import popupmessage_class
 
 class moreinfoPushButton(QtWidgets.QPushButton):
     """To have a push button with built in message pop up"""

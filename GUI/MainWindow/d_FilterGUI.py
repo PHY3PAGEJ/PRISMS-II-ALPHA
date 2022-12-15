@@ -16,8 +16,12 @@ When making an update to the code, remember to put a comment in the code what wa
 .i.e.
 #01/12/2022: updated the message used in the pop up
 '''
+import logging as log ##troubleshooting
+log.info(__file__)  ##troubleshooting
 from PyQt5 import QtWidgets
-from SelfDefinedWidgets.PushButton_popupMessage import moreinfoPushButton
+from GUI.SelfDefinedWidgets.PushButton_popupMessage import moreinfoPushButton
+from GUI.SelfDefinedWidgets.StackedWidget import StackedWidget_class
+sw = StackedWidget_class()
 
 messagefile = "GUI/AdditionalWindows/Messages/Filter_moreinfo.csv"
 
@@ -44,13 +48,15 @@ class FilterGUI_class():
         filterLayout.addWidget(iButton, 3)
         #add the layout to the group
         groupBox.setLayout(filterLayout)
-        return(groupBox)
+        stackedgroup = sw.stackplaceholderWidget(groupBox)
+        return(stackedgroup)
 
     def SpinWheel(self):
         """Define the filter spinbox choices"""
         spinWheel = QtWidgets.QSpinBox()
-        spinWheel.setRange (1, 10)
-        spinWheel.setToolTip("Which filter is selected, 1-10")
+        spinWheel.setWrapping(True) # when go to top number, goes back to first
+        spinWheel.setRange(0, 9) # 0-9
+        spinWheel.setToolTip("Which filter is selected, 0-9")
         return(spinWheel)
 
     def infoButton(self):

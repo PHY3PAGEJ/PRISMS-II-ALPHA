@@ -34,9 +34,10 @@ When making an update to the code, remember to put a comment in the code what wa
 #01/12/2022: updated the message used in the pop up
 
 '''
-
+import logging as log ##troubleshooting
+log.info(__file__)  ##troubleshooting
 from PyQt5 import QtWidgets, QtGui
-from SelfDefinedWidgets.PushButton_saveopendir import saveopendirPushButton
+from GUI.SelfDefinedWidgets.PushButton_saveopendir import saveopendirPushButton
 
 class MosaicCreate_class(QtWidgets.QWidget):
     """This is a pop-up class which creates a csv. mosaic file that can be ran or saved"""
@@ -73,12 +74,12 @@ class MosaicCreate_class(QtWidgets.QWidget):
  
     def Exposuretime(self):
         """sublayout exposure_time"""   
-        #Filter 1 2 3 4 5 6 7 8 9 10
+        #Filter 0 1 2 3 4 5 6 7 8 9
         Filterlabel = QtWidgets.QLabel("Filter: ")
         H1Layout = QtWidgets.QHBoxLayout()
         H1Layout.addWidget(Filterlabel)
         for i in range(10):
-            numlabel = QtWidgets.QLabel(str(i+1))
+            numlabel = QtWidgets.QLabel(str(i))
             H1Layout.addWidget(numlabel)
         #Set exposure | | | | | | | | | | |
         setexposurelabel = QtWidgets.QLabel("Set-Exp: ")

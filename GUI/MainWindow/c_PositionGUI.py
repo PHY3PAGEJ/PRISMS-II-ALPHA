@@ -15,12 +15,19 @@ To create the buttons for position GUI, with mock up shown in Mock-up.PNG.
     |_________________________|
 
 UPDATE HISTORY:
+>07/12/2022, lines 40,41,42,100,105: adding in hard limits to the angles that can be entered into the 
+                                    displays as per the mechanical limits not to take out equipment.
 
 When making an update to the code, remember to put a comment in the code what was changed and why
 .i.e.
 #01/12/2022: updated the message used in the pop up
+
 '''
+import logging as log ##troubleshooting
+log.info(__file__)  ##troubleshooting
 from PyQt5 import QtWidgets,QtGui
+from GUI.SelfDefinedWidgets.StackedWidget import StackedWidget_class
+sw = StackedWidget_class()
 
 class PositionGUI_class():
     """Build the GUI for the position controls"""
@@ -32,9 +39,9 @@ class PositionGUI_class():
         """Build the Orientation of PRISMS II widgets group"""
         #call in widgets
         leftButton,rightButton,upButton,downButton,setzeroButton = self.Buttons()
-        StepSize = self.Textbox(info="Increment steps in degrees", label=False)
-        aziLayout = self.Textbox(info="Azimuth Position", label="Azimuth")
-        altLayout = self.Textbox(info="Altitude Position", label="Altitude")
+        StepSize = self.Textbox(info="Increment steps in degrees", label=False, lower = 0, upper = 180)
+        aziLayout = self.Textbox(info="Azimuth Position", label="Azimuth", lower = -360, upper = 360)
+        altLayout = self.Textbox(info="Altitude Position", label="Altitude", lower = -60, upper = 60) # 66 degrees is the mechanical limits to the stand not to damage equipment, 6 degrees less than this is used as a buffer
         #make groupbox for widgets to sit in
         groupBox = QtWidgets.QGroupBox("Orientation")
         #main dial button grid layout, set like a 3 x 3 shown below
@@ -64,7 +71,8 @@ class PositionGUI_class():
         HLayout.addLayout(azialtLayout, 3)
         #add the layout to the group
         groupBox.setLayout(HLayout)
-        return(groupBox)
+        stackedgroup = sw.stackplaceholderWidget(groupBox)
+        return(stackedgroup)
 
     def Buttons(self):
         """Define the buttons of the position GUI"""
@@ -91,12 +99,12 @@ class PositionGUI_class():
         #connect button functionality to clicked and enter button
         return(leftButton,rightButton,upButton,downButton,setzeroButton)
 
-    def Textbox(self, info, label):
+    def Textbox(self, info, label,lower,upper):
         """define the input text boxes, and whether it has a label"""
         #initalise float inputs
         Value = QtWidgets.QLineEdit()
         #make only accept numbers by making validator
-        dv = QtGui.QDoubleValidator(0.0, 1000000.0, 2) # [0, 5] with 2 decimals of precision
+        dv = QtGui.QDoubleValidator(lower, upper, 2) # [0, 5] with 2 decimals of precision
         dv.setNotation(QtGui.QDoubleValidator.StandardNotation) # no scientifc notation accepted
         #apply validator
         Value.setValidator(dv)
